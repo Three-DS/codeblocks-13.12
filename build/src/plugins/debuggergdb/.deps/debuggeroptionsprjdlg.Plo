@@ -1,0 +1,105 @@
+debuggeroptionsprjdlg.lo: \
+ ../../../../src/plugins/debuggergdb/debuggeroptionsprjdlg.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/debuggergdb/debuggeroptionsprjdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/settings.h \
+ ../../../../src/plugins/debuggergdb/remotedebugging.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/xrc/xmlres.h \
+ /usr/include/wx-2.8/wx/listbox.h /usr/include/wx-2.8/wx/button.h \
+ /usr/include/wx-2.8/wx/choice.h /usr/include/wx-2.8/wx/checkbox.h \
+ ../../../../src/include/cbproject.h \
+ ../../../../src/include/editpathdlg.h ../../../../src/include/manager.h \
+ ../../../../src/include/globals.h \
+ ../../../../src/plugins/debuggergdb/debuggergdb.h \
+ ../../../../src/include/sdk_events.h ../../../../src/include/cbplugin.h \
+ ../../../../src/include/loggers.h ../../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../../src/include/pipedprocess.h /usr/include/wx-2.8/wx/regex.h \
+ ../../../../src/plugins/debuggergdb/debuggerstate.h \
+ ../../../../src/plugins/debuggergdb/debugger_defs.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/c++/4.8/deque \
+ /usr/include/c++/4.8/vector ../../../../src/include/debuggermanager.h \
+ ../../../../src/include/sdk.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/debuggergdb/debuggeroptionsprjdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/debuggergdb/remotedebugging.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+/usr/include/wx-2.8/wx/choice.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/editpathdlg.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/plugins/debuggergdb/debuggergdb.h:
+
+../../../../src/include/sdk_events.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/loggers.h:
+
+../../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../../src/include/pipedprocess.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+../../../../src/plugins/debuggergdb/debuggerstate.h:
+
+../../../../src/plugins/debuggergdb/debugger_defs.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/include/debuggermanager.h:
+
+../../../../src/include/sdk.h:

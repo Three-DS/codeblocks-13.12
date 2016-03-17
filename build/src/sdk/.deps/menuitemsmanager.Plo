@@ -1,0 +1,11 @@
+menuitemsmanager.lo: ../../../src/sdk/menuitemsmanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/manager.h \
+ ../../../src/include/menuitemsmanager.h /usr/include/wx-2.8/wx/regex.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/menuitemsmanager.h:
+
+/usr/include/wx-2.8/wx/regex.h:

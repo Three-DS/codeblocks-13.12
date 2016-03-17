@@ -1,0 +1,40 @@
+filepathpanel.lo: \
+ ../../../../src/plugins/scriptedwizard/filepathpanel.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filefn.h \
+ ../../../../src/plugins/scriptedwizard/filepathpanel.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/wx.h \
+ /usr/include/wx-2.8/wx/sizer.h /usr/include/wx-2.8/wx/stattext.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/checklst.h \
+ /usr/include/wx-2.8/wx/checkbox.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/button.h /usr/include/wx-2.8/wx/string.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filefn.h:
+
+../../../../src/plugins/scriptedwizard/filepathpanel.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/checklst.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+/usr/include/wx-2.8/wx/string.h:

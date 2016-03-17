@@ -1,0 +1,26 @@
+compilerOWgenerator.lo: \
+ ../../../../src/plugins/compilergcc/compilerOWgenerator.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/compileoptionsbase.h \
+ ../../../../src/plugins/compilergcc/compilerOWgenerator.h \
+ ../../../../src/include/compilercommandgenerator.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../../src/include/settings.h \
+ ../../../../src/include/compiletargetbase.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/compileoptionsbase.h:
+
+../../../../src/plugins/compilergcc/compilerOWgenerator.h:
+
+../../../../src/include/compilercommandgenerator.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/compiletargetbase.h:

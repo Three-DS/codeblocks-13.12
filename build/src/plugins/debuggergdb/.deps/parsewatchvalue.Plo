@@ -1,0 +1,26 @@
+parsewatchvalue.lo: \
+ ../../../../src/plugins/debuggergdb/parsewatchvalue.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/debuggergdb/parsewatchvalue.h \
+ ../../../../src/plugins/debuggergdb/debugger_defs.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/c++/4.8/deque /usr/include/c++/4.8/vector \
+ ../../../../src/include/debuggermanager.h ../../../../src/include/sdk.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/debuggergdb/parsewatchvalue.h:
+
+../../../../src/plugins/debuggergdb/debugger_defs.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/include/debuggermanager.h:
+
+../../../../src/include/sdk.h:

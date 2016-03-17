@@ -1,0 +1,324 @@
+compilergcc.lo: ../../../../src/plugins/compilergcc/compilergcc.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/frame.h \
+ /usr/include/wx-2.8/wx/gauge.h /usr/include/wx-2.8/wx/listctrl.h \
+ /usr/include/wx-2.8/wx/xrc/xmlres.h /usr/include/wx-2.8/wx/sizer.h \
+ /usr/include/wx-2.8/wx/button.h /usr/include/wx-2.8/wx/stattext.h \
+ /usr/include/wx-2.8/wx/statline.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/control.h /usr/include/wx-2.8/wx/gtk/statline.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/utils.h \
+ /usr/include/wx-2.8/wx/uri.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/xml/xml.h \
+ ../../../../src/include/prep.h ../../../../src/include/manager.h \
+ ../../../../src/include/sdk_events.h \
+ ../../../../src/include/pipedprocess.h \
+ ../../../../src/include/configmanager.h \
+ ../../../../src/include/compilercommandgenerator.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/dynarray.h \
+ ../../../../src/include/settings.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/include/debuggermanager.h ../../../../src/include/sdk.h \
+ ../../../../src/include/logmanager.h \
+ ../../../../src/include/macrosmanager.h \
+ ../../../../src/include/projectmanager.h \
+ ../../../../src/include/editormanager.h \
+ ../../../../src/include/scriptingmanager.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ ../../../../src/include/pluginmanager.h \
+ ../../../../src/include/cbeditor.h \
+ ../../../../src/include/annoyingdialog.h \
+ /usr/include/wx-2.8/wx/artprov.h ../../../../src/include/filefilters.h \
+ ../../../../src/include/infowindow.h \
+ ../../../../src/plugins/compilergcc/compilergcc.h \
+ /usr/include/wx-2.8/wx/choice.h /usr/include/wx-2.8/wx/process.h \
+ /usr/include/wx-2.8/wx/timer.h /usr/include/c++/4.8/queue \
+ /usr/include/c++/4.8/deque /usr/include/c++/4.8/vector \
+ /usr/include/c++/4.8/bits/stl_heap.h \
+ /usr/include/c++/4.8/bits/stl_function.h \
+ /usr/include/c++/4.8/bits/stl_queue.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/debug/debug.h ../../../../src/include/cbplugin.h \
+ ../../../../src/include/cbproject.h \
+ ../../../../src/include/compileoptionsbase.h \
+ ../../../../src/include/compilerfactory.h \
+ ../../../../src/include/logger.h ../../../../src/include/settings.h \
+ ../../../../src/plugins/compilergcc/compilermessages.h \
+ ../../../../src/include/loggers.h ../../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../../src/plugins/compilergcc/compilererrors.h \
+ /usr/include/wx-2.8/wx/arrstr.h ../../../../src/include/compiler.h \
+ ../../../../src/plugins/compilergcc/compiler_defs.h \
+ /usr/include/wx-2.8/wx/list.h \
+ ../../../../src/plugins/compilergcc/compileroptionsdlg.h \
+ /usr/include/wx-2.8/wx/intl.h ../../../../src/include/compileroptions.h \
+ ../../../../src/plugins/compilergcc/directcommands.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../../src/include/globals.h \
+ ../../../../src/include/cbworkspace.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/set \
+ ../../../../src/plugins/compilergcc/compilerMINGW.h \
+ ../../../../src/plugins/compilergcc/compilerGNUARM.h \
+ ../../../../src/plugins/compilergcc/compilerMSVC.h \
+ ../../../../src/plugins/compilergcc/compilerMSVC8.h \
+ ../../../../src/plugins/compilergcc/compilerMSVC10.h \
+ ../../../../src/plugins/compilergcc/compilerOW.h \
+ ../../../../src/plugins/compilergcc/compilerCYGWIN.h \
+ ../../../../src/plugins/compilergcc/compilerLCC.h \
+ ../../../../src/plugins/compilergcc/compilerKeilC51.h \
+ ../../../../src/plugins/compilergcc/compilerIAR.h \
+ ../../../../src/plugins/compilergcc/compilerICC.h \
+ /usr/include/wx-2.8/wx/dir.h \
+ ../../../../src/plugins/compilergcc/compilerGDC.h \
+ ../../../../src/plugins/compilergcc/compilerGNUFortran.h \
+ ../../../../src/plugins/compilergcc/compilerG95.h \
+ ../../../../src/plugins/compilergcc/compilerXML.h \
+ ../../../../src/include/scripting/bindings/sc_base_types.h \
+ ../../../../src/include/uservarmanager.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/include/scripting/sqplus/sqplus.h /usr/include/stdlib.h \
+ /usr/include/malloc.h /usr/include/features.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/stdio.h \
+ /usr/include/memory.h \
+ ../../../../src/include/scripting/include/squirrel.h \
+ ../../../../src/include/scripting/sqplus/SquirrelObject.h \
+ ../../../../src/include/scripting/sqplus/sqplus.h \
+ ../../../../src/include/scripting/sqplus/SquirrelVM.h \
+ ../../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h \
+ ../../../../src/include/scripting/sqplus/SqPlusConst.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/frame.h:
+
+/usr/include/wx-2.8/wx/gauge.h:
+
+/usr/include/wx-2.8/wx/listctrl.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/statline.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/control.h:
+
+/usr/include/wx-2.8/wx/gtk/statline.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/utils.h:
+
+/usr/include/wx-2.8/wx/uri.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/xml/xml.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/sdk_events.h:
+
+../../../../src/include/pipedprocess.h:
+
+../../../../src/include/configmanager.h:
+
+../../../../src/include/compilercommandgenerator.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/include/debuggermanager.h:
+
+../../../../src/include/sdk.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/include/macrosmanager.h:
+
+../../../../src/include/projectmanager.h:
+
+../../../../src/include/editormanager.h:
+
+../../../../src/include/scriptingmanager.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../../src/include/pluginmanager.h:
+
+../../../../src/include/cbeditor.h:
+
+../../../../src/include/annoyingdialog.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../../src/include/filefilters.h:
+
+../../../../src/include/infowindow.h:
+
+../../../../src/plugins/compilergcc/compilergcc.h:
+
+/usr/include/wx-2.8/wx/choice.h:
+
+/usr/include/wx-2.8/wx/process.h:
+
+/usr/include/wx-2.8/wx/timer.h:
+
+/usr/include/c++/4.8/queue:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/bits/stl_heap.h:
+
+/usr/include/c++/4.8/bits/stl_function.h:
+
+/usr/include/c++/4.8/bits/stl_queue.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/compileoptionsbase.h:
+
+../../../../src/include/compilerfactory.h:
+
+../../../../src/include/logger.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/compilergcc/compilermessages.h:
+
+../../../../src/include/loggers.h:
+
+../../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../../src/plugins/compilergcc/compilererrors.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/compiler.h:
+
+../../../../src/plugins/compilergcc/compiler_defs.h:
+
+/usr/include/wx-2.8/wx/list.h:
+
+../../../../src/plugins/compilergcc/compileroptionsdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/include/compileroptions.h:
+
+../../../../src/plugins/compilergcc/directcommands.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/cbworkspace.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/plugins/compilergcc/compilerMINGW.h:
+
+../../../../src/plugins/compilergcc/compilerGNUARM.h:
+
+../../../../src/plugins/compilergcc/compilerMSVC.h:
+
+../../../../src/plugins/compilergcc/compilerMSVC8.h:
+
+../../../../src/plugins/compilergcc/compilerMSVC10.h:
+
+../../../../src/plugins/compilergcc/compilerOW.h:
+
+../../../../src/plugins/compilergcc/compilerCYGWIN.h:
+
+../../../../src/plugins/compilergcc/compilerLCC.h:
+
+../../../../src/plugins/compilergcc/compilerKeilC51.h:
+
+../../../../src/plugins/compilergcc/compilerIAR.h:
+
+../../../../src/plugins/compilergcc/compilerICC.h:
+
+/usr/include/wx-2.8/wx/dir.h:
+
+../../../../src/plugins/compilergcc/compilerGDC.h:
+
+../../../../src/plugins/compilergcc/compilerGNUFortran.h:
+
+../../../../src/plugins/compilergcc/compilerG95.h:
+
+../../../../src/plugins/compilergcc/compilerXML.h:
+
+../../../../src/include/scripting/bindings/sc_base_types.h:
+
+../../../../src/include/uservarmanager.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/include/scripting/sqplus/sqplus.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/malloc.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/memory.h:
+
+../../../../src/include/scripting/include/squirrel.h:
+
+../../../../src/include/scripting/sqplus/SquirrelObject.h:
+
+../../../../src/include/scripting/sqplus/sqplus.h:
+
+../../../../src/include/scripting/sqplus/SquirrelVM.h:
+
+../../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h:
+
+../../../../src/include/scripting/sqplus/SqPlusConst.h:

@@ -1,0 +1,15 @@
+genericmultilinenotesdlg.lo: \
+ ../../../src/sdk/genericmultilinenotesdlg.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/genericmultilinenotesdlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/textctrl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/genericmultilinenotesdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:

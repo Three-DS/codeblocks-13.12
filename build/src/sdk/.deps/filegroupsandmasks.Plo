@@ -1,0 +1,11 @@
+filegroupsandmasks.lo: ../../../src/sdk/filegroupsandmasks.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:

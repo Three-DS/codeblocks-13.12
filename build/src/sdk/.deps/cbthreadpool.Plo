@@ -1,0 +1,35 @@
+cbthreadpool.lo: ../../../src/sdk/cbthreadpool.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbthreadpool.h \
+ /usr/include/wx-2.8/wx/thread.h /usr/include/wx-2.8/wx/event.h \
+ /usr/include/c++/4.8/vector /usr/include/c++/4.8/list \
+ ../../../src/include/cbthreadedtask.h ../../../src/include/settings.h \
+ ../../../src/include/prep.h /usr/include/c++/4.8/algorithm \
+ /usr/include/c++/4.8/functional \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/c++/4.8/bits/stl_function.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbthreadpool.h:
+
+/usr/include/wx-2.8/wx/thread.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/list:
+
+../../../src/include/cbthreadedtask.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/prep.h:
+
+/usr/include/c++/4.8/algorithm:
+
+/usr/include/c++/4.8/functional:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/c++/4.8/bits/stl_function.h:

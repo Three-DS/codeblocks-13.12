@@ -1,0 +1,49 @@
+msvcloader.lo: ../../../../src/plugins/projectsimporter/msvcloader.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/stream.h \
+ /usr/include/wx-2.8/wx/tokenzr.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/include/prep.h \
+ ../../../../src/include/importers_globals.h \
+ ../../../../src/include/settings.h \
+ ../../../../src/plugins/projectsimporter/msvcloader.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/filename.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../../src/include/ibaseloader.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/include/multiselectdlg.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/tokenzr.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/include/importers_globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/projectsimporter/msvcloader.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/ibaseloader.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/include/multiselectdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/include/scrollingdialog.h:

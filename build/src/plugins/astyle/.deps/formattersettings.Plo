@@ -1,0 +1,43 @@
+formattersettings.lo: \
+ ../../../../src/plugins/astyle/formattersettings.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/astyle/formattersettings.h \
+ ../../../../src/plugins/astyle/astyle/astyle.h \
+ /usr/include/c++/4.8/cassert /usr/include/assert.h \
+ /usr/include/features.h /usr/include/c++/4.8/cctype \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/ctype.h /usr/include/c++/4.8/iostream \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/vector \
+ /usr/include/string.h \
+ ../../../../src/plugins/astyle/astylepredefinedstyles.h \
+ ../../../../src/include/configmanager.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/astyle/formattersettings.h:
+
+../../../../src/plugins/astyle/astyle/astyle.h:
+
+/usr/include/c++/4.8/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/c++/4.8/cctype:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/ctype.h:
+
+/usr/include/c++/4.8/iostream:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/string.h:
+
+../../../../src/plugins/astyle/astylepredefinedstyles.h:
+
+../../../../src/include/configmanager.h:

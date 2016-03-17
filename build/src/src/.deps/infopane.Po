@@ -1,0 +1,46 @@
+infopane.o: ../../../src/src/infopane.cpp /usr/include/stdc-predef.h \
+ /usr/include/wx-2.8/wx/wupdlock.h /usr/include/wx-2.8/wx/window.h \
+ /usr/include/wx-2.8/wx/tokenzr.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../src/src/infopane.h /usr/include/c++/4.8/limits \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ ../../../src/include/logmanager.h ../../../src/include/cbauibook.h \
+ ../../../src/include/loggers.h ../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/wupdlock.h:
+
+/usr/include/wx-2.8/wx/window.h:
+
+/usr/include/wx-2.8/wx/tokenzr.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/src/infopane.h:
+
+/usr/include/c++/4.8/limits:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+../../../src/include/logmanager.h:
+
+../../../src/include/cbauibook.h:
+
+../../../src/include/loggers.h:
+
+../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:

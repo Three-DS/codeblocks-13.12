@@ -1,0 +1,26 @@
+compilerpanel.lo: \
+ ../../../../src/plugins/scriptedwizard/compilerpanel.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/scriptedwizard/compilerpanel.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/sizer.h \
+ /usr/include/wx-2.8/wx/stattext.h /usr/include/wx-2.8/wx/textctrl.h \
+ /usr/include/wx-2.8/wx/checkbox.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/combobox.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/scriptedwizard/compilerpanel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/combobox.h:

@@ -1,0 +1,45 @@
+editorcolourset.lo: ../../../src/sdk/editorcolourset.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/regex.h \
+ /usr/include/wx-2.8/wx/txtstrm.h /usr/include/wx-2.8/wx/wfstream.h \
+ ../../../src/include/cbcolourmanager.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/manager.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/set \
+ ../../../src/include/editorcolourset.h \
+ ../../../src/include/editorlexerloader.h \
+ ../../../src/include/filefilters.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+/usr/include/wx-2.8/wx/txtstrm.h:
+
+/usr/include/wx-2.8/wx/wfstream.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/editorcolourset.h:
+
+../../../src/include/editorlexerloader.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/settings.h:

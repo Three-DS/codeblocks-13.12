@@ -1,0 +1,64 @@
+compilersettingsdlg.o: ../../../src/src/compilersettingsdlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/xrc/xmlres.h \
+ ../../../src/include/manager.h ../../../src/include/configmanager.h \
+ ../../../src/include/pluginmanager.h ../../../src/include/cbplugin.h \
+ /usr/include/wx-2.8/wx/intl.h /usr/include/wx-2.8/wx/listbook.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/bookctrl.h \
+ /usr/include/wx-2.8/wx/listctrl.h /usr/include/wx-2.8/wx/checklst.h \
+ /usr/include/wx-2.8/wx/filename.h /usr/include/wx-2.8/wx/imaglist.h \
+ /usr/include/wx-2.8/wx/sizer.h /usr/include/wx-2.8/wx/stattext.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/panel.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/src/compilersettingsdlg.h \
+ ../../../src/include/scrollingdialog.h ../../../src/src/appglobals.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/configmanager.h:
+
+../../../src/include/pluginmanager.h:
+
+../../../src/include/cbplugin.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/listbook.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/bookctrl.h:
+
+/usr/include/wx-2.8/wx/listctrl.h:
+
+/usr/include/wx-2.8/wx/checklst.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/imaglist.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+../../../src/include/configurationpanel.h:
+
+../../../src/include/globals.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/src/compilersettingsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/src/appglobals.h:

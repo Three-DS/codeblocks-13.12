@@ -1,0 +1,52 @@
+autosave.lo: ../../../../src/plugins/autosave/autosave.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/4.8/algorithm \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../../src/include/projectloader.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../../src/include/ibaseloader.h \
+ ../../../../src/include/settings.h \
+ ../../../../src/plugins/autosave/autosave.h \
+ /usr/include/wx-2.8/wx/intl.h /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/include/cbplugin.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/algorithm:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/include/projectloader.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/ibaseloader.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/autosave/autosave.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:

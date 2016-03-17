@@ -1,0 +1,48 @@
+loggers.lo: ../../../src/sdk/loggers.cpp /usr/include/stdc-predef.h \
+ /usr/include/wx-2.8/wx/clipbrd.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/wxchar.h \
+ /usr/include/wx-2.8/wx/gtk/clipbrd.h /usr/include/wx-2.8/wx/dataobj.h \
+ /usr/include/wx-2.8/wx/wupdlock.h /usr/include/wx-2.8/wx/window.h \
+ ../../../src/include/loggers.h ../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../src/include/cbcolourmanager.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/manager.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/clipbrd.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/gtk/clipbrd.h:
+
+/usr/include/wx-2.8/wx/dataobj.h:
+
+/usr/include/wx-2.8/wx/wupdlock.h:
+
+/usr/include/wx-2.8/wx/window.h:
+
+../../../src/include/loggers.h:
+
+../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:

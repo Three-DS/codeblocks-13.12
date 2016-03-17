@@ -1,0 +1,19 @@
+filefilters.lo: ../../../src/sdk/filefilters.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/arrstr.h ../../../src/include/filefilters.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ ../../../src/include/globals.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/globals.h:

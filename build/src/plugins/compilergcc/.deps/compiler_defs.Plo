@@ -1,0 +1,21 @@
+compiler_defs.lo: ../../../../src/plugins/compilergcc/compiler_defs.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/compilergcc/compiler_defs.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/list.h \
+ ../../../../src/include/cbproject.h \
+ ../../../../src/include/projectbuildtarget.h \
+ /usr/include/wx-2.8/wx/listimpl.cpp
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/compilergcc/compiler_defs.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/list.h:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/projectbuildtarget.h:
+
+/usr/include/wx-2.8/wx/listimpl.cpp:

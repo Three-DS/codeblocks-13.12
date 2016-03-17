@@ -1,0 +1,31 @@
+compilerflagdlg.lo: \
+ ../../../../src/plugins/compilergcc/compilerflagdlg.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/prep.h \
+ /usr/include/wx-2.8/wx/tglbtn.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/event.h /usr/include/wx-2.8/wx/control.h \
+ /usr/include/wx-2.8/wx/gtk/tglbtn.h /usr/include/wx-2.8/wx/bitmap.h \
+ ../../../../src/plugins/compilergcc/compilerflagdlg.h \
+ /usr/include/wx-2.8/wx/dialog.h \
+ ../../../../src/include/compileroptions.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/prep.h:
+
+/usr/include/wx-2.8/wx/tglbtn.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/wx-2.8/wx/control.h:
+
+/usr/include/wx-2.8/wx/gtk/tglbtn.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+../../../../src/plugins/compilergcc/compilerflagdlg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+../../../../src/include/compileroptions.h:

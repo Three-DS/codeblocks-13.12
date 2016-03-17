@@ -1,0 +1,16 @@
+editarraystringdlg.lo: ../../../src/sdk/editarraystringdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editarraystringdlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../src/include/settings.h /usr/include/wx-2.8/wx/textdlg.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editarraystringdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/textdlg.h:

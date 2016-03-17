@@ -1,0 +1,116 @@
+watchesdlg.o: ../../../src/src/watchesdlg.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/4.8/numeric \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/c++/4.8/bits/stl_iterator_base_types.h \
+ /usr/include/c++/4.8/bits/stl_numeric.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/debug/debug.h /usr/include/c++/4.8/bits/move.h \
+ /usr/include/c++/4.8/map /usr/include/c++/4.8/algorithm \
+ ../../../src/sdk/wxpropgrid/include/wx/propgrid/propgrid.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/hashmap.h \
+ /usr/include/wx-2.8/wx/variant.h /usr/include/wx-2.8/wx/longlong.h \
+ /usr/include/wx-2.8/wx/dcclient.h /usr/include/wx-2.8/wx/scrolwin.h \
+ /usr/include/wx-2.8/wx/tooltip.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/gtk/tooltip.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/datetime.h \
+ ../../../src/sdk/wxpropgrid/include/wx/propgrid/props.h \
+ ../../../src/sdk/wxpropgrid/include/wx/propgrid/editors.h \
+ /usr/include/wx-2.8/wx/dialog.h /usr/include/wx-2.8/wx/textctrl.h \
+ /usr/include/wx-2.8/wx/button.h /usr/include/wx-2.8/wx/listbox.h \
+ /usr/include/wx-2.8/wx/valtext.h /usr/include/wx-2.8/wx/filename.h \
+ ../../../src/src/watchesdlg.h /usr/include/c++/4.8/vector \
+ /usr/include/wx-2.8/wx/panel.h /usr/include/wx-2.8/wx/popupwin.h \
+ /usr/include/wx-2.8/wx/timer.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ ../../../src/include/settings.h ../../../src/include/debuggermanager.h \
+ ../../../src/include/sdk.h ../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h ../../../src/include/manager.h \
+ ../../../src/include/debuggermanager.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/numeric:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/c++/4.8/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/4.8/bits/stl_numeric.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+/usr/include/c++/4.8/bits/move.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/algorithm:
+
+../../../src/sdk/wxpropgrid/include/wx/propgrid/propgrid.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+/usr/include/wx-2.8/wx/variant.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/wx-2.8/wx/dcclient.h:
+
+/usr/include/wx-2.8/wx/scrolwin.h:
+
+/usr/include/wx-2.8/wx/tooltip.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/gtk/tooltip.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/datetime.h:
+
+../../../src/sdk/wxpropgrid/include/wx/propgrid/props.h:
+
+../../../src/sdk/wxpropgrid/include/wx/propgrid/editors.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+/usr/include/wx-2.8/wx/valtext.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+../../../src/src/watchesdlg.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/popupwin.h:
+
+/usr/include/wx-2.8/wx/timer.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/debuggermanager.h:

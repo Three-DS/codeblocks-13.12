@@ -1,0 +1,19 @@
+editorbase.lo: ../../../src/sdk/editorbase.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/cbauibook.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbauibook.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:

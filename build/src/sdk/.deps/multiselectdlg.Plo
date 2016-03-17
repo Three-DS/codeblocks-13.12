@@ -1,0 +1,19 @@
+multiselectdlg.lo: ../../../src/sdk/multiselectdlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/textdlg.h \
+ ../../../src/include/multiselectdlg.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/dynarray.h \
+ ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/textdlg.h:
+
+../../../src/include/multiselectdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/scrollingdialog.h:

@@ -1,0 +1,37 @@
+searchresultslog.lo: ../../../src/sdk/searchresultslog.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/searchresultslog.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/loggers.h \
+ ../../../src/include/logger.h /usr/include/wx-2.8/wx/colour.h \
+ /usr/include/wx-2.8/wx/font.h /usr/include/wx-2.8/wx/ffile.h \
+ /usr/include/wx-2.8/wx/textctrl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/searchresultslog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/loggers.h:
+
+../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:

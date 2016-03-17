@@ -1,0 +1,43 @@
+breakpointsdlg.o: ../../../src/src/breakpointsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/debuggermanager.h \
+ ../../../src/include/sdk.h ../../../src/src/breakpointsdlg.h \
+ /usr/include/c++/4.8/vector /usr/include/wx-2.8/wx/panel.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ ../../../src/include/debuggermanager.h /usr/include/wx-2.8/wx/imaglist.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/src/breakpointsdlg.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+/usr/include/wx-2.8/wx/imaglist.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:

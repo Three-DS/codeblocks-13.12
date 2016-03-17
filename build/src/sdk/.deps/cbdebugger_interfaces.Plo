@@ -1,0 +1,19 @@
+cbdebugger_interfaces.lo: ../../../src/sdk/cbdebugger_interfaces.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbdebugger_interfaces.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ ../../../src/include/debuggermanager.h ../../../src/include/sdk.h \
+ ../../../src/include/sdk_precomp.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/include/sdk_precomp.h:

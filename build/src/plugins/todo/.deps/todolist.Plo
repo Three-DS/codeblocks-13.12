@@ -1,0 +1,101 @@
+todolist.lo: ../../../../src/plugins/todo/todolist.cpp \
+ /usr/include/stdc-predef.h ../../../../src/plugins/todo/addtododlg.h \
+ /usr/include/c++/4.8/bitset /usr/include/c++/4.8/string \
+ /usr/include/c++/4.8/bits/functexcept.h /usr/include/c++/4.8/iosfwd \
+ /usr/include/c++/4.8/bits/cxxabi_forced.h \
+ /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/include/scrollingdialog.h \
+ ../../../../src/plugins/todo/asktypedlg.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../../src/include/editorcolourset.h \
+ ../../../../src/plugins/todo/todolist.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/include/cbplugin.h ../../../../src/include/globals.h \
+ ../../../../src/plugins/todo/todolistview.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/c++/4.8/vector \
+ ../../../../src/include/loggers.h ../../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../../src/plugins/todo/todosettingsdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ ../../../../src/include/settings.h /usr/include/wx-2.8/wx/arrimpl.cpp
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/todo/addtododlg.h:
+
+/usr/include/c++/4.8/bitset:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/bits/functexcept.h:
+
+/usr/include/c++/4.8/iosfwd:
+
+/usr/include/c++/4.8/bits/cxxabi_forced.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/scrollingdialog.h:
+
+../../../../src/plugins/todo/asktypedlg.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/include/editorcolourset.h:
+
+../../../../src/plugins/todo/todolist.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/plugins/todo/todolistview.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/include/loggers.h:
+
+../../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../../src/plugins/todo/todosettingsdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/arrimpl.cpp:

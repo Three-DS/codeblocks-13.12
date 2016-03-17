@@ -1,0 +1,84 @@
+LexPowerPro.lo: \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexers/LexPowerPro.cxx \
+ /usr/include/stdc-predef.h /usr/include/string.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /usr/include/assert.h /usr/include/ctype.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/include/ILexer.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/include/Scintilla.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/include/SciLexer.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/WordList.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexAccessor.h \
+ /usr/include/c++/4.8/cassert \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/Accessor.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexAccessor.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/StyleContext.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/CharacterSet.h \
+ ../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexerModule.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+/usr/include/assert.h:
+
+/usr/include/ctype.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/include/ILexer.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/include/Scintilla.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/include/SciLexer.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/WordList.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexAccessor.h:
+
+/usr/include/c++/4.8/cassert:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/Accessor.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexAccessor.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/StyleContext.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/CharacterSet.h:
+
+../../../../src/sdk/wxscintilla/src/scintilla/lexlib/LexerModule.h:

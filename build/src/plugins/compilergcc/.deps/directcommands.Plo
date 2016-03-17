@@ -1,0 +1,152 @@
+directcommands.lo: ../../../../src/plugins/compilergcc/directcommands.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/filename.h /usr/include/wx-2.8/wx/msgdlg.h \
+ /usr/include/wx-2.8/wx/stream.h /usr/include/wx-2.8/wx/wfstream.h \
+ /usr/include/wx-2.8/wx/txtstrm.h /usr/include/wx-2.8/wx/regex.h \
+ ../../../../src/include/compiler.h ../../../../src/include/cbproject.h \
+ ../../../../src/include/projectbuildtarget.h \
+ ../../../../src/include/globals.h ../../../../src/include/manager.h \
+ ../../../../src/include/logmanager.h \
+ ../../../../src/include/macrosmanager.h \
+ ../../../../src/plugins/compilergcc/directcommands.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../../src/include/compilercommandgenerator.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/dynarray.h \
+ ../../../../src/include/settings.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/plugins/compilergcc/compilergcc.h \
+ /usr/include/wx-2.8/wx/choice.h /usr/include/wx-2.8/wx/process.h \
+ /usr/include/wx-2.8/wx/timer.h /usr/include/c++/4.8/queue \
+ /usr/include/c++/4.8/deque /usr/include/c++/4.8/vector \
+ /usr/include/c++/4.8/bits/stl_heap.h \
+ /usr/include/c++/4.8/bits/stl_function.h \
+ /usr/include/c++/4.8/bits/stl_queue.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/debug/debug.h ../../../../src/include/cbplugin.h \
+ ../../../../src/include/compileoptionsbase.h \
+ ../../../../src/include/compilerfactory.h \
+ ../../../../src/include/logger.h ../../../../src/include/sdk_events.h \
+ ../../../../src/include/settings.h \
+ ../../../../src/plugins/compilergcc/compilermessages.h \
+ ../../../../src/include/loggers.h ../../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../../src/plugins/compilergcc/compilererrors.h \
+ /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/plugins/compilergcc/compiler_defs.h \
+ /usr/include/wx-2.8/wx/list.h ../../../../src/include/cbexception.h \
+ ../../../../src/include/filefilters.h \
+ ../../../../src/plugins/compilergcc/depslib/src/depslib.h \
+ /usr/include/time.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/wfstream.h:
+
+/usr/include/wx-2.8/wx/txtstrm.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+../../../../src/include/compiler.h:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/projectbuildtarget.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/include/macrosmanager.h:
+
+../../../../src/plugins/compilergcc/directcommands.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/compilercommandgenerator.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/plugins/compilergcc/compilergcc.h:
+
+/usr/include/wx-2.8/wx/choice.h:
+
+/usr/include/wx-2.8/wx/process.h:
+
+/usr/include/wx-2.8/wx/timer.h:
+
+/usr/include/c++/4.8/queue:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/bits/stl_heap.h:
+
+/usr/include/c++/4.8/bits/stl_function.h:
+
+/usr/include/c++/4.8/bits/stl_queue.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/compileoptionsbase.h:
+
+../../../../src/include/compilerfactory.h:
+
+../../../../src/include/logger.h:
+
+../../../../src/include/sdk_events.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/compilergcc/compilermessages.h:
+
+../../../../src/include/loggers.h:
+
+../../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../../src/plugins/compilergcc/compilererrors.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/plugins/compilergcc/compiler_defs.h:
+
+/usr/include/wx-2.8/wx/list.h:
+
+../../../../src/include/cbexception.h:
+
+../../../../src/include/filefilters.h:
+
+../../../../src/plugins/compilergcc/depslib/src/depslib.h:
+
+/usr/include/time.h:

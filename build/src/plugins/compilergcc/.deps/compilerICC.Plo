@@ -1,0 +1,42 @@
+compilerICC.lo: ../../../../src/plugins/compilergcc/compilerICC.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/config.h \
+ /usr/include/wx-2.8/wx/confbase.h /usr/include/wx-2.8/wx/fileconf.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/textfile.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/convauto.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/file.h \
+ ../../../../src/plugins/compilergcc/compilerICC.h \
+ /usr/include/wx-2.8/wx/dir.h ../../../../src/include/globals.h \
+ ../../../../src/include/compiler.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+../../../../src/plugins/compilergcc/compilerICC.h:
+
+/usr/include/wx-2.8/wx/dir.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/compiler.h:

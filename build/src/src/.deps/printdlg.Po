@@ -1,0 +1,25 @@
+printdlg.o: ../../../src/src/printdlg.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/src/printdlg.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/printing_types.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/src/printdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/printing_types.h:

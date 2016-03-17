@@ -1,0 +1,16 @@
+editpathdlg.lo: ../../../src/sdk/editpathdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editpathdlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/filedlg.h /usr/include/wx-2.8/wx/msgdlg.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editpathdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:

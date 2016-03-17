@@ -1,0 +1,9 @@
+compilerfactory.lo: ../../../src/sdk/compilerfactory.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/autodetectcompilers.h \
+ ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/autodetectcompilers.h:
+
+../../../src/include/scrollingdialog.h:

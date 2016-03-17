@@ -1,0 +1,204 @@
+classbrowser.lo: ../../../../src/plugins/codecompletion/classbrowser.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/tokenzr.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set \
+ ../../../../src/plugins/codecompletion/classbrowser.h \
+ /usr/include/wx-2.8/wx/panel.h ../../../../src/include/settings.h \
+ ../../../../src/include/cbplugin.h ../../../../src/include/manager.h \
+ ../../../../src/plugins/codecompletion/cctreectrl.h \
+ /usr/include/wx-2.8/wx/treectrl.h /usr/include/c++/4.8/queue \
+ /usr/include/c++/4.8/deque /usr/include/c++/4.8/vector \
+ /usr/include/c++/4.8/bits/stl_heap.h \
+ /usr/include/c++/4.8/bits/stl_function.h \
+ /usr/include/c++/4.8/bits/stl_queue.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/debug/debug.h \
+ ../../../../src/plugins/codecompletion/parser/parser.h \
+ /usr/include/wx-2.8/wx/event.h /usr/include/wx-2.8/wx/file.h \
+ /usr/include/wx-2.8/wx/filefn.h /usr/include/wx-2.8/wx/imaglist.h \
+ /usr/include/wx-2.8/wx/thread.h /usr/include/wx-2.8/wx/timer.h \
+ ../../../../src/plugins/codecompletion/parser/parserthread.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../../src/include/cbthreadpool.h \
+ /usr/include/c++/4.8/list ../../../../src/include/cbthreadedtask.h \
+ ../../../../src/include/settings.h ../../../../src/include/prep.h \
+ ../../../../src/include/filemanager.h \
+ ../../../../src/include/logmanager.h \
+ ../../../../src/plugins/codecompletion/parser/cclogger.h \
+ /usr/include/c++/4.8/memory ../../../../src/include/cbexception.h \
+ ../../../../src/include/prep.h \
+ ../../../../src/plugins/codecompletion/parser/tokenizer.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../../src/include/configmanager.h \
+ ../../../../src/plugins/codecompletion/parser/token.h \
+ /usr/include/c++/4.8/stack /usr/include/c++/4.8/bits/stl_stack.h \
+ ../../../../src/plugins/codecompletion/parser/tokentree.h \
+ ../../../../src/plugins/codecompletion/parser/searchtree.h \
+ ../../../../src/include/sdk_events.h \
+ ../../../../src/plugins/codecompletion/parser/token.h \
+ ../../../../src/plugins/codecompletion/classbrowserbuilderthread.h \
+ ../../../../src/plugins/codecompletion/nativeparser.h \
+ ../../../../src/plugins/codecompletion/nativeparser_base.h \
+ ../../../../src/plugins/codecompletion/parser/tokentree.h \
+ ../../../../src/plugins/codecompletion/parser/ccdebuginfo.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/wx.h \
+ /usr/include/wx-2.8/wx/notebook.h /usr/include/wx-2.8/wx/sizer.h \
+ /usr/include/wx-2.8/wx/stattext.h /usr/include/wx-2.8/wx/textctrl.h \
+ /usr/include/wx-2.8/wx/listbox.h /usr/include/wx-2.8/wx/statline.h \
+ /usr/include/wx-2.8/wx/control.h /usr/include/wx-2.8/wx/gtk/statline.h \
+ /usr/include/wx-2.8/wx/button.h \
+ ../../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/combobox.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/tokenzr.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/plugins/codecompletion/classbrowser.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/plugins/codecompletion/cctreectrl.h:
+
+/usr/include/wx-2.8/wx/treectrl.h:
+
+/usr/include/c++/4.8/queue:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/bits/stl_heap.h:
+
+/usr/include/c++/4.8/bits/stl_function.h:
+
+/usr/include/c++/4.8/bits/stl_queue.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+../../../../src/plugins/codecompletion/parser/parser.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/filefn.h:
+
+/usr/include/wx-2.8/wx/imaglist.h:
+
+/usr/include/wx-2.8/wx/thread.h:
+
+/usr/include/wx-2.8/wx/timer.h:
+
+../../../../src/plugins/codecompletion/parser/parserthread.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../../src/include/cbthreadpool.h:
+
+/usr/include/c++/4.8/list:
+
+../../../../src/include/cbthreadedtask.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/include/filemanager.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/plugins/codecompletion/parser/cclogger.h:
+
+/usr/include/c++/4.8/memory:
+
+../../../../src/include/cbexception.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/plugins/codecompletion/parser/tokenizer.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/configmanager.h:
+
+../../../../src/plugins/codecompletion/parser/token.h:
+
+/usr/include/c++/4.8/stack:
+
+/usr/include/c++/4.8/bits/stl_stack.h:
+
+../../../../src/plugins/codecompletion/parser/tokentree.h:
+
+../../../../src/plugins/codecompletion/parser/searchtree.h:
+
+../../../../src/include/sdk_events.h:
+
+../../../../src/plugins/codecompletion/parser/token.h:
+
+../../../../src/plugins/codecompletion/classbrowserbuilderthread.h:
+
+../../../../src/plugins/codecompletion/nativeparser.h:
+
+../../../../src/plugins/codecompletion/nativeparser_base.h:
+
+../../../../src/plugins/codecompletion/parser/tokentree.h:
+
+../../../../src/plugins/codecompletion/parser/ccdebuginfo.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+/usr/include/wx-2.8/wx/notebook.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+/usr/include/wx-2.8/wx/statline.h:
+
+/usr/include/wx-2.8/wx/control.h:
+
+/usr/include/wx-2.8/wx/gtk/statline.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/combobox.h:

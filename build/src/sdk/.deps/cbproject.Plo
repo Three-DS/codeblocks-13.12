@@ -1,0 +1,73 @@
+cbproject.lo: ../../../src/sdk/cbproject.cpp /usr/include/stdc-predef.h \
+ /usr/include/wx-2.8/wx/choicdlg.h /usr/include/wx-2.8/wx/filedlg.h \
+ /usr/include/wx-2.8/wx/filename.h /usr/include/wx-2.8/wx/textdlg.h \
+ /usr/include/c++/4.8/map ../../../src/include/projectloader.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../src/include/ibaseloader.h \
+ ../../../src/include/settings.h \
+ ../../../src/include/projectlayoutloader.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/selecttargetdlg.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h \
+ ../../../src/include/filefilters.h ../../../src/include/annoyingdialog.h \
+ /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/genericmultilinenotesdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/include/compilercommandgenerator.h \
+ ../../../src/include/compiletargetbase.h \
+ ../../../src/include/cbcolourmanager.h /usr/include/wx-2.8/wx/colour.h \
+ ../../../src/include/manager.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/choicdlg.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/textdlg.h:
+
+/usr/include/c++/4.8/map:
+
+../../../src/include/projectloader.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../src/include/ibaseloader.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/projectlayoutloader.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/selecttargetdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/annoyingdialog.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/genericmultilinenotesdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/compilercommandgenerator.h:
+
+../../../src/include/compiletargetbase.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../src/include/manager.h:

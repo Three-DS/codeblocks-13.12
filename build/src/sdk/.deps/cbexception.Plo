@@ -1,0 +1,6 @@
+cbexception.lo: ../../../src/sdk/cbexception.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/intl.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/intl.h:

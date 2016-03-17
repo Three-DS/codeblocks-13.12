@@ -1,0 +1,12 @@
+selecttargetdlg.lo: ../../../src/sdk/selecttargetdlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filedlg.h \
+ ../../../src/include/selecttargetdlg.h \
+ ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+../../../src/include/selecttargetdlg.h:
+
+../../../src/include/scrollingdialog.h:

@@ -1,0 +1,14 @@
+projecttemplateloader.lo: ../../../src/sdk/projecttemplateloader.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/projecttemplateloader.h \
+ ../../../src/include/tinyxml/tinyxml.h ../../../src/include/settings.h \
+ /usr/include/wx-2.8/wx/arrimpl.cpp
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/projecttemplateloader.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/arrimpl.cpp:

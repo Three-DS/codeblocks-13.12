@@ -1,0 +1,14 @@
+editorlexerloader.lo: ../../../src/sdk/editorlexerloader.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editorcolourset.h \
+ ../../../src/include/editorlexerloader.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/filemanager.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editorcolourset.h:
+
+../../../src/include/editorlexerloader.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/filemanager.h:

@@ -1,0 +1,51 @@
+projectloader.lo: ../../../src/sdk/projectloader.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/dir.h \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/algorithm \
+ ../../../src/include/filefilters.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/settings.h ../../../src/include/projectloader.h \
+ /usr/include/wx-2.8/wx/hashmap.h ../../../src/include/ibaseloader.h \
+ ../../../src/include/projectloader_hooks.h \
+ ../../../src/include/annoyingdialog.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/configmanager.h \
+ ../../../src/include/tinyxml/tinywxuni.h \
+ ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/dir.h:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/algorithm:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/projectloader.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../src/include/ibaseloader.h:
+
+../../../src/include/projectloader_hooks.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/configmanager.h:
+
+../../../src/include/tinyxml/tinywxuni.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:

@@ -1,0 +1,69 @@
+CharDistribution.lo: \
+ ../../../src/sdk/mozilla_chardet/src/CharDistribution.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../src/include/mozilla_chardet/CharDistribution.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nscore.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nsError.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h \
+ ../../../src/sdk/mozilla_chardet/src/JISFreq.tab \
+ ../../../src/sdk/mozilla_chardet/src/Big5Freq.tab \
+ ../../../src/sdk/mozilla_chardet/src/EUCKRFreq.tab \
+ ../../../src/sdk/mozilla_chardet/src/EUCTWFreq.tab \
+ ../../../src/sdk/mozilla_chardet/src/GB2312Freq.tab \
+ ../../../src/include/mozilla_chardet/xpcom/glue/nsMemory.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/mozilla_chardet/CharDistribution.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nscore.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nsError.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h:
+
+../../../src/sdk/mozilla_chardet/src/JISFreq.tab:
+
+../../../src/sdk/mozilla_chardet/src/Big5Freq.tab:
+
+../../../src/sdk/mozilla_chardet/src/EUCKRFreq.tab:
+
+../../../src/sdk/mozilla_chardet/src/EUCTWFreq.tab:
+
+../../../src/sdk/mozilla_chardet/src/GB2312Freq.tab:
+
+../../../src/include/mozilla_chardet/xpcom/glue/nsMemory.h:

@@ -1,0 +1,28 @@
+todosettingsdlg.lo: ../../../../src/plugins/todo/todosettingsdlg.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/todo/todosettingsdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/todo/todosettingsdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/settings.h:

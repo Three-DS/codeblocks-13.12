@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/codeblocks/wxContribItems
+includedir=${prefix}/include/codeblocks/wxContribItems
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxFlatNotebook
+Description: wxFlatNotebook also used for the wxSmith Contrib Items
+Version: 13.12-9491
+Libs: -L${libdir} -lwxflatnotebook
+Cflags: -fPIC -I${includedir}/wxFlatNotebook/include
+

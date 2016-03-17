@@ -1,0 +1,25 @@
+scriptsecuritywarningdlg.lo: \
+ ../../../src/sdk/scriptsecuritywarningdlg.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/scriptsecuritywarningdlg.h \
+ ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/xrc/xmlres.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/settings.h /usr/include/wx-2.8/wx/stattext.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/combobox.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/scriptsecuritywarningdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/settings.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/combobox.h:

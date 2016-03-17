@@ -1,0 +1,9 @@
+importers_globals.lo: ../../../src/sdk/importers_globals.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/importers_globals.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/importers_globals.h:
+
+../../../src/include/settings.h:

@@ -1,0 +1,16 @@
+cbauibook.lo: ../../../src/sdk/cbauibook.cpp /usr/include/stdc-predef.h \
+ /usr/include/wx-2.8/wx/tooltip.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/gtk/tooltip.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/object.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/tooltip.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/gtk/tooltip.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/object.h:

@@ -1,0 +1,9 @@
+tinywxuni.lo: ../../../../src/base/tinyxml/tinywxuni.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/tinyxml/tinywxuni.h \
+ ../../../../src/include/tinyxml/tinyxml.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/tinyxml/tinywxuni.h:
+
+../../../../src/include/tinyxml/tinyxml.h:

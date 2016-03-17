@@ -1,0 +1,54 @@
+compilermessages.lo: \
+ ../../../../src/plugins/compilergcc/compilermessages.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/clipbrd.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/gtk/clipbrd.h \
+ /usr/include/wx-2.8/wx/dataobj.h \
+ ../../../../src/plugins/compilergcc/compilererrors.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/compiler.h \
+ ../../../../src/plugins/compilergcc/compilermessages.h \
+ ../../../../src/include/loggers.h ../../../../src/include/logger.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/ffile.h /usr/include/wx-2.8/wx/textctrl.h \
+ ../../../../src/include/prep.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/clipbrd.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/gtk/clipbrd.h:
+
+/usr/include/wx-2.8/wx/dataobj.h:
+
+../../../../src/plugins/compilergcc/compilererrors.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/compiler.h:
+
+../../../../src/plugins/compilergcc/compilermessages.h:
+
+../../../../src/include/loggers.h:
+
+../../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../../src/include/prep.h:

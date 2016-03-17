@@ -1,0 +1,74 @@
+occurrenceshighlighting.lo: \
+ ../../../../src/plugins/occurrenceshighlighting/occurrenceshighlighting.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/listctrl.h \
+ ../../../../src/include/cbcolourmanager.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/colour.h ../../../../src/include/manager.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/set \
+ ../../../../src/plugins/occurrenceshighlighting/occurrenceshighlighting.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/wx.h \
+ ../../../../src/include/cbplugin.h \
+ ../../../../src/plugins/occurrenceshighlighting/highlighter.h \
+ ../../../../src/include/editor_hooks.h \
+ ../../../../src/plugins/occurrenceshighlighting/occurrencespanel.h \
+ /usr/include/wx-2.8/wx/sizer.h \
+ ../../../../src/plugins/occurrenceshighlighting/occurrenceshighlightingconfigurationpanel.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/listctrl.h:
+
+../../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/plugins/occurrenceshighlighting/occurrenceshighlighting.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/plugins/occurrenceshighlighting/highlighter.h:
+
+../../../../src/include/editor_hooks.h:
+
+../../../../src/plugins/occurrenceshighlighting/occurrencespanel.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+../../../../src/plugins/occurrenceshighlighting/occurrenceshighlightingconfigurationpanel.h:

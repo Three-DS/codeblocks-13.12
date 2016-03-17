@@ -1,0 +1,45 @@
+compilerMSVC.lo: ../../../../src/plugins/compilergcc/compilerMSVC.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/compilergcc/compilerMSVC.h \
+ ../../../../src/include/compiler.h /usr/include/wx-2.8/wx/wx.h \
+ /usr/include/wx-2.8/wx/intl.h /usr/include/wx-2.8/wx/regex.h \
+ /usr/include/wx-2.8/wx/config.h /usr/include/wx-2.8/wx/confbase.h \
+ /usr/include/wx-2.8/wx/fileconf.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/textfile.h /usr/include/wx-2.8/wx/textbuf.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/wx-2.8/wx/convauto.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/file.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/compilergcc/compilerMSVC.h:
+
+../../../../src/include/compiler.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:

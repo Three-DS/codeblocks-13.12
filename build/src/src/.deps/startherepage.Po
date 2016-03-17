@@ -1,0 +1,298 @@
+startherepage.o: ../../../src/src/startherepage.cpp \
+ /usr/include/stdc-predef.h ../../../src/src/startherepage.h \
+ ../../../src/src/main.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/aui/aui.h \
+ /usr/include/wx-2.8/wx/aui/framemanager.h \
+ /usr/include/wx-2.8/wx/aui/dockart.h \
+ /usr/include/wx-2.8/wx/aui/floatpane.h \
+ /usr/include/wx-2.8/wx/aui/auibar.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/control.h /usr/include/wx-2.8/wx/aui/auibook.h \
+ /usr/include/wx-2.8/wx/aui/tabmdi.h /usr/include/wx-2.8/wx/frame.h \
+ /usr/include/wx-2.8/wx/panel.h /usr/include/wx-2.8/wx/notebook.h \
+ /usr/include/wx-2.8/wx/icon.h /usr/include/wx-2.8/wx/toolbar.h \
+ /usr/include/wx-2.8/wx/docview.h /usr/include/wx-2.8/wx/list.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/print.h \
+ /usr/include/wx-2.8/wx/iosfwrap.h /usr/include/c++/4.8/iosfwd \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/cbeditor.h \
+ ../../../src/include/manager.h ../../../src/include/cbexception.h \
+ ../../../src/include/cbplugin.h ../../../src/src/find_replace.h \
+ ../../../src/include/sdk_events.h ../../../src/src/recentitemslist.h \
+ ../../../src/include/scripting/bindings/sc_base_types.h \
+ /usr/include/wx-2.8/wx/arrstr.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/logmanager.h \
+ ../../../src/include/configmanager.h \
+ ../../../src/include/editormanager.h \
+ ../../../src/include/projectmanager.h \
+ ../../../src/include/macrosmanager.h \
+ ../../../src/include/uservarmanager.h \
+ ../../../src/include/pluginmanager.h \
+ ../../../src/include/scriptingmanager.h \
+ ../../../src/include/compilerfactory.h \
+ ../../../src/include/compiletargetbase.h \
+ ../../../src/include/cbproject.h \
+ ../../../src/include/scripting/sqplus/sqplus.h /usr/include/stdlib.h \
+ /usr/include/malloc.h /usr/include/features.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/stdio.h \
+ /usr/include/memory.h ../../../src/include/scripting/include/squirrel.h \
+ ../../../src/include/scripting/sqplus/SquirrelObject.h \
+ ../../../src/include/scripting/sqplus/sqplus.h \
+ ../../../src/include/scripting/sqplus/SquirrelVM.h \
+ ../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h \
+ ../../../src/include/scripting/sqplus/SqPlusConst.h \
+ ../../../src/include/scrollingdialog.h ../../../src/src/appglobals.h \
+ /usr/include/wx-2.8/wx/intl.h ../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h ../../../src/include/manager.h \
+ /usr/include/wx-2.8/wx/clipbrd.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/gtk/clipbrd.h \
+ /usr/include/wx-2.8/wx/wxhtml.h /usr/include/wx-2.8/wx/html/htmldefs.h \
+ /usr/include/wx-2.8/wx/html/htmltag.h \
+ /usr/include/wx-2.8/wx/html/htmlcell.h /usr/include/wx-2.8/wx/window.h \
+ /usr/include/wx-2.8/wx/html/htmlpars.h /usr/include/wx-2.8/wx/filesys.h \
+ /usr/include/wx-2.8/wx/hash.h /usr/include/wx-2.8/wx/fontenc.h \
+ /usr/include/wx-2.8/wx/html/htmlwin.h /usr/include/wx-2.8/wx/scrolwin.h \
+ /usr/include/wx-2.8/wx/config.h /usr/include/wx-2.8/wx/confbase.h \
+ /usr/include/wx-2.8/wx/fileconf.h /usr/include/wx-2.8/wx/textfile.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/convauto.h \
+ /usr/include/wx-2.8/wx/file.h /usr/include/wx-2.8/wx/stopwatch.h \
+ /usr/include/wx-2.8/wx/html/winpars.h /usr/include/wx-2.8/wx/module.h \
+ /usr/include/wx-2.8/wx/font.h /usr/include/wx-2.8/wx/encconv.h \
+ /usr/include/wx-2.8/wx/html/htmlfilt.h /usr/include/wx-2.8/wx/filename.h \
+ /usr/include/wx-2.8/wx/bitmap.h /usr/include/wx-2.8/wx/html/helpctrl.h \
+ /usr/include/wx-2.8/wx/helpbase.h /usr/include/wx-2.8/wx/gdicmn.h \
+ /usr/include/wx-2.8/wx/html/helpfrm.h \
+ /usr/include/wx-2.8/wx/html/helpdata.h /usr/include/wx-2.8/wx/splitter.h \
+ /usr/include/wx-2.8/wx/listbox.h /usr/include/wx-2.8/wx/choice.h \
+ /usr/include/wx-2.8/wx/combobox.h /usr/include/wx-2.8/wx/checkbox.h \
+ /usr/include/wx-2.8/wx/stattext.h /usr/include/wx-2.8/wx/html/helpwnd.h \
+ /usr/include/wx-2.8/wx/html/htmprint.h /usr/include/wx-2.8/wx/printdlg.h \
+ /usr/include/wx-2.8/wx/event.h /usr/include/wx-2.8/wx/dialog.h \
+ /usr/include/wx-2.8/wx/cmndata.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/startherepage.h:
+
+../../../src/src/main.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/aui/aui.h:
+
+/usr/include/wx-2.8/wx/aui/framemanager.h:
+
+/usr/include/wx-2.8/wx/aui/dockart.h:
+
+/usr/include/wx-2.8/wx/aui/floatpane.h:
+
+/usr/include/wx-2.8/wx/aui/auibar.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/control.h:
+
+/usr/include/wx-2.8/wx/aui/auibook.h:
+
+/usr/include/wx-2.8/wx/aui/tabmdi.h:
+
+/usr/include/wx-2.8/wx/frame.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/notebook.h:
+
+/usr/include/wx-2.8/wx/icon.h:
+
+/usr/include/wx-2.8/wx/toolbar.h:
+
+/usr/include/wx-2.8/wx/docview.h:
+
+/usr/include/wx-2.8/wx/list.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/print.h:
+
+/usr/include/wx-2.8/wx/iosfwrap.h:
+
+/usr/include/c++/4.8/iosfwd:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/cbeditor.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/cbexception.h:
+
+../../../src/include/cbplugin.h:
+
+../../../src/src/find_replace.h:
+
+../../../src/include/sdk_events.h:
+
+../../../src/src/recentitemslist.h:
+
+../../../src/include/scripting/bindings/sc_base_types.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/globals.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/logmanager.h:
+
+../../../src/include/configmanager.h:
+
+../../../src/include/editormanager.h:
+
+../../../src/include/projectmanager.h:
+
+../../../src/include/macrosmanager.h:
+
+../../../src/include/uservarmanager.h:
+
+../../../src/include/pluginmanager.h:
+
+../../../src/include/scriptingmanager.h:
+
+../../../src/include/compilerfactory.h:
+
+../../../src/include/compiletargetbase.h:
+
+../../../src/include/cbproject.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/malloc.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/memory.h:
+
+../../../src/include/scripting/include/squirrel.h:
+
+../../../src/include/scripting/sqplus/SquirrelObject.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+../../../src/include/scripting/sqplus/SquirrelVM.h:
+
+../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h:
+
+../../../src/include/scripting/sqplus/SqPlusConst.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/src/appglobals.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../src/include/manager.h:
+
+/usr/include/wx-2.8/wx/clipbrd.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/gtk/clipbrd.h:
+
+/usr/include/wx-2.8/wx/wxhtml.h:
+
+/usr/include/wx-2.8/wx/html/htmldefs.h:
+
+/usr/include/wx-2.8/wx/html/htmltag.h:
+
+/usr/include/wx-2.8/wx/html/htmlcell.h:
+
+/usr/include/wx-2.8/wx/window.h:
+
+/usr/include/wx-2.8/wx/html/htmlpars.h:
+
+/usr/include/wx-2.8/wx/filesys.h:
+
+/usr/include/wx-2.8/wx/hash.h:
+
+/usr/include/wx-2.8/wx/fontenc.h:
+
+/usr/include/wx-2.8/wx/html/htmlwin.h:
+
+/usr/include/wx-2.8/wx/scrolwin.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/stopwatch.h:
+
+/usr/include/wx-2.8/wx/html/winpars.h:
+
+/usr/include/wx-2.8/wx/module.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/encconv.h:
+
+/usr/include/wx-2.8/wx/html/htmlfilt.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+/usr/include/wx-2.8/wx/html/helpctrl.h:
+
+/usr/include/wx-2.8/wx/helpbase.h:
+
+/usr/include/wx-2.8/wx/gdicmn.h:
+
+/usr/include/wx-2.8/wx/html/helpfrm.h:
+
+/usr/include/wx-2.8/wx/html/helpdata.h:
+
+/usr/include/wx-2.8/wx/splitter.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+/usr/include/wx-2.8/wx/choice.h:
+
+/usr/include/wx-2.8/wx/combobox.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/html/helpwnd.h:
+
+/usr/include/wx-2.8/wx/html/htmprint.h:
+
+/usr/include/wx-2.8/wx/printdlg.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/cmndata.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h:

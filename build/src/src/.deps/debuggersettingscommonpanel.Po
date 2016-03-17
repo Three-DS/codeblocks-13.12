@@ -1,0 +1,26 @@
+debuggersettingscommonpanel.o: \
+ ../../../src/src/debuggersettingscommonpanel.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../src/src/debuggersettingscommonpanel.h \
+ /usr/include/wx-2.8/wx/fontdlg.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/dialog.h /usr/include/wx-2.8/wx/cmndata.h \
+ /usr/include/wx-2.8/wx/gtk/fontdlg.h \
+ ../../../src/include/debuggermanager.h ../../../src/include/sdk.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/debuggersettingscommonpanel.h:
+
+/usr/include/wx-2.8/wx/fontdlg.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/cmndata.h:
+
+/usr/include/wx-2.8/wx/gtk/fontdlg.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:

@@ -1,0 +1,87 @@
+editormanager.lo: ../../../src/sdk/editormanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/annoyingdialog.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h ../../../src/include/manager.h \
+ /usr/include/wx-2.8/wx/bmpbuttn.h /usr/include/wx-2.8/wx/clipbrd.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/gtk/clipbrd.h \
+ /usr/include/wx-2.8/wx/fontutil.h /usr/include/wx-2.8/wx/progdlg.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h ../../../src/include/cbauibook.h \
+ ../../../src/include/editorcolourset.h \
+ ../../../src/include/confirmreplacedlg.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/include/filefilters.h \
+ ../../../src/include/projectfileoptionsdlg.h \
+ ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../src/include/manager.h:
+
+/usr/include/wx-2.8/wx/bmpbuttn.h:
+
+/usr/include/wx-2.8/wx/clipbrd.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/gtk/clipbrd.h:
+
+/usr/include/wx-2.8/wx/fontutil.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+../../../src/include/cbauibook.h:
+
+../../../src/include/editorcolourset.h:
+
+../../../src/include/confirmreplacedlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/projectfileoptionsdlg.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:

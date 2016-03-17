@@ -1,0 +1,27 @@
+confirmreplacedlg.lo: ../../../src/sdk/confirmreplacedlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/confirmreplacedlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/confirmreplacedlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/settings.h:

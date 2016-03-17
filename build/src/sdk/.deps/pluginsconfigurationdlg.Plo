@@ -1,0 +1,112 @@
+pluginsconfigurationdlg.lo: ../../../src/sdk/pluginsconfigurationdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/annoyingdialog.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/artprov.h \
+ /usr/include/wx-2.8/wx/dirdlg.h /usr/include/wx-2.8/wx/filedlg.h \
+ /usr/include/wx-2.8/wx/html/htmlwin.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/window.h /usr/include/wx-2.8/wx/scrolwin.h \
+ /usr/include/wx-2.8/wx/config.h /usr/include/wx-2.8/wx/confbase.h \
+ /usr/include/wx-2.8/wx/fileconf.h /usr/include/wx-2.8/wx/textfile.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/convauto.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/file.h /usr/include/wx-2.8/wx/stopwatch.h \
+ /usr/include/wx-2.8/wx/html/winpars.h /usr/include/wx-2.8/wx/module.h \
+ /usr/include/wx-2.8/wx/font.h /usr/include/wx-2.8/wx/html/htmlpars.h \
+ /usr/include/wx-2.8/wx/html/htmltag.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/filesys.h /usr/include/wx-2.8/wx/hash.h \
+ /usr/include/wx-2.8/wx/fontenc.h /usr/include/wx-2.8/wx/html/htmlcell.h \
+ /usr/include/wx-2.8/wx/html/htmldefs.h /usr/include/wx-2.8/wx/encconv.h \
+ /usr/include/wx-2.8/wx/html/htmlfilt.h /usr/include/wx-2.8/wx/filename.h \
+ /usr/include/wx-2.8/wx/bitmap.h /usr/include/wx-2.8/wx/progdlg.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h /usr/include/wx-2.8/wx/settings.h \
+ /usr/include/wx-2.8/wx/tooltip.h /usr/include/wx-2.8/wx/gtk/tooltip.h \
+ ../../../src/include/pluginsconfigurationdlg.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+/usr/include/wx-2.8/wx/dirdlg.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+/usr/include/wx-2.8/wx/html/htmlwin.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/window.h:
+
+/usr/include/wx-2.8/wx/scrolwin.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/stopwatch.h:
+
+/usr/include/wx-2.8/wx/html/winpars.h:
+
+/usr/include/wx-2.8/wx/module.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/html/htmlpars.h:
+
+/usr/include/wx-2.8/wx/html/htmltag.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/filesys.h:
+
+/usr/include/wx-2.8/wx/hash.h:
+
+/usr/include/wx-2.8/wx/fontenc.h:
+
+/usr/include/wx-2.8/wx/html/htmlcell.h:
+
+/usr/include/wx-2.8/wx/html/htmldefs.h:
+
+/usr/include/wx-2.8/wx/encconv.h:
+
+/usr/include/wx-2.8/wx/html/htmlfilt.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/settings.h:
+
+/usr/include/wx-2.8/wx/tooltip.h:
+
+/usr/include/wx-2.8/wx/gtk/tooltip.h:
+
+../../../src/include/pluginsconfigurationdlg.h:

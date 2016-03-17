@@ -1,0 +1,56 @@
+expression.lo: \
+ ../../../../src/plugins/codecompletion/parser/expression.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/4.8/stack \
+ /usr/include/c++/4.8/deque /usr/include/c++/4.8/bits/stl_stack.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/debug/debug.h ../../../../src/include/logmanager.h \
+ ../../../../src/include/manager.h \
+ ../../../../src/plugins/codecompletion/parser/cclogger.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/thread.h \
+ /usr/include/c++/4.8/memory ../../../../src/include/cbexception.h \
+ ../../../../src/include/prep.h \
+ ../../../../src/plugins/codecompletion/parser/expression.h \
+ /usr/include/c++/4.8/vector \
+ ../../../../src/plugins/codecompletion/parser/token.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/c++/4.8/set \
+ /usr/include/c++/4.8/map
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/stack:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/bits/stl_stack.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/plugins/codecompletion/parser/cclogger.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/thread.h:
+
+/usr/include/c++/4.8/memory:
+
+../../../../src/include/cbexception.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/plugins/codecompletion/parser/expression.h:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/plugins/codecompletion/parser/token.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/c++/4.8/set:
+
+/usr/include/c++/4.8/map:

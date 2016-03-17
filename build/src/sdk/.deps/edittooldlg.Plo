@@ -1,0 +1,11 @@
+edittooldlg.lo: ../../../src/sdk/edittooldlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/edittooldlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/filedlg.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/edittooldlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:

@@ -1,0 +1,55 @@
+compilerGDC.lo: ../../../../src/plugins/compilergcc/compilerGDC.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/prep.h \
+ ../../../../src/plugins/compilergcc/compilerGDC.h \
+ ../../../../src/include/compiler.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/regex.h /usr/include/wx-2.8/wx/config.h \
+ /usr/include/wx-2.8/wx/confbase.h /usr/include/wx-2.8/wx/fileconf.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/textfile.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/convauto.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/file.h \
+ /usr/include/wx-2.8/wx/msgdlg.h ../../../../src/include/manager.h \
+ ../../../../src/include/logmanager.h \
+ ../../../../src/include/configmanager.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/plugins/compilergcc/compilerGDC.h:
+
+../../../../src/include/compiler.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/include/configmanager.h:

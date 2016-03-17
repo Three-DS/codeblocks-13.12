@@ -1,0 +1,9 @@
+configmanager-revision.lo: ../../../src/sdk/configmanager-revision.cpp \
+ /usr/include/stdc-predef.h ../../src/include/autorevision.h \
+ /usr/include/wx-2.8/wx/string.h
+
+/usr/include/stdc-predef.h:
+
+../../src/include/autorevision.h:
+
+/usr/include/wx-2.8/wx/string.h:

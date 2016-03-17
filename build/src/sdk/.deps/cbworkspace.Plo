@@ -1,0 +1,14 @@
+cbworkspace.lo: ../../../src/sdk/cbworkspace.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filedlg.h \
+ ../../../src/include/filefilters.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:

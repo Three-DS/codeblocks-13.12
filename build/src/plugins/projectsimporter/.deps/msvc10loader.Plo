@@ -1,0 +1,39 @@
+msvc10loader.lo: \
+ ../../../../src/plugins/projectsimporter/msvc10loader.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/choicdlg.h \
+ ../../../../src/include/tinyxml/tinyxml.h ../../../../src/include/prep.h \
+ ../../../../src/plugins/projectsimporter/msvc10loader.h \
+ ../../../../src/include/ibaseloader.h ../../../../src/include/settings.h \
+ /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../../src/include/multiselectdlg.h /usr/include/wx-2.8/wx/intl.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/dynarray.h \
+ ../../../../src/include/scrollingdialog.h \
+ ../../../../src/include/importers_globals.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/choicdlg.h:
+
+../../../../src/include/tinyxml/tinyxml.h:
+
+../../../../src/include/prep.h:
+
+../../../../src/plugins/projectsimporter/msvc10loader.h:
+
+../../../../src/include/ibaseloader.h:
+
+../../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/multiselectdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../../src/include/scrollingdialog.h:
+
+../../../../src/include/importers_globals.h:

@@ -1,0 +1,9 @@
+projectdepsdlg.lo: ../../../src/sdk/projectdepsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/projectdepsdlg.h \
+ ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/projectdepsdlg.h:
+
+../../../src/include/scrollingdialog.h:

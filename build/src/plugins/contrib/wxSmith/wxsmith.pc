@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/wxsmith
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxSmith
+Description: RAD-tool for the Code::Blocks IDE
+Version: 13.12-9491
+Libs: -L${libdir} -lwxsmithlib
+Cflags: -fPIC -I${includedir}

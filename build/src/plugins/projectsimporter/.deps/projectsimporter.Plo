@@ -1,0 +1,65 @@
+projectsimporter.lo: \
+ ../../../../src/plugins/projectsimporter/projectsimporter.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/projectsimporter/projectsimporter.h \
+ ../../../../src/include/cbplugin.h \
+ ../../../../src/plugins/projectsimporter/devcpploader.h \
+ ../../../../src/include/ibaseloader.h ../../../../src/include/settings.h \
+ ../../../../src/plugins/projectsimporter/msvc7loader.h \
+ /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/plugins/projectsimporter/msvc10loader.h \
+ /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../../src/plugins/projectsimporter/msvc7workspaceloader.h \
+ ../../../../src/include/ibaseworkspaceloader.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspacebase.h \
+ /usr/include/wx-2.8/wx/version.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/plugins/projectsimporter/msvcloader.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/filename.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspaceloader.h \
+ ../../../../src/include/importers_globals.h \
+ ../../../../src/include/filefilters.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/projectsimporter/projectsimporter.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/plugins/projectsimporter/devcpploader.h:
+
+../../../../src/include/ibaseloader.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/plugins/projectsimporter/msvc7loader.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/plugins/projectsimporter/msvc10loader.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/plugins/projectsimporter/msvc7workspaceloader.h:
+
+../../../../src/include/ibaseworkspaceloader.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspacebase.h:
+
+/usr/include/wx-2.8/wx/version.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/plugins/projectsimporter/msvcloader.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspaceloader.h:
+
+../../../../src/include/importers_globals.h:
+
+../../../../src/include/filefilters.h:

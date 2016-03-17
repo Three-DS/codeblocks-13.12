@@ -1,0 +1,39 @@
+cbeditorprintout.lo: ../../../src/sdk/cbeditorprintout.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/cbeditorprintout.h \
+ /usr/include/wx-2.8/wx/print.h ../../../src/include/printing_types.h \
+ /usr/include/wx-2.8/wx/paper.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/event.h /usr/include/wx-2.8/wx/cmndata.h \
+ /usr/include/wx-2.8/wx/intl.h /usr/include/wx-2.8/wx/hashmap.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/cbeditorprintout.h:
+
+/usr/include/wx-2.8/wx/print.h:
+
+../../../src/include/printing_types.h:
+
+/usr/include/wx-2.8/wx/paper.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/wx-2.8/wx/cmndata.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:

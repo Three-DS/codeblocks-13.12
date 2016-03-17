@@ -1,0 +1,51 @@
+globals.lo: ../../../src/sdk/globals.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/tinyxml/tinyxml.h /usr/include/wx-2.8/wx/dirdlg.h \
+ /usr/include/wx-2.8/wx/filefn.h /usr/include/wx-2.8/wx/fontmap.h \
+ /usr/include/wx-2.8/wx/msgdlg.h /usr/include/wx-2.8/wx/tokenzr.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/c++/4.8/algorithm \
+ /usr/include/c++/4.8/string ../../../src/include/filefilters.h \
+ ../../../src/include/settings.h ../../../src/include/tinyxml/tinywxuni.h \
+ ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/sys/stat.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+/usr/include/wx-2.8/wx/dirdlg.h:
+
+/usr/include/wx-2.8/wx/filefn.h:
+
+/usr/include/wx-2.8/wx/fontmap.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:
+
+/usr/include/wx-2.8/wx/tokenzr.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/c++/4.8/algorithm:
+
+/usr/include/c++/4.8/string:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/tinyxml/tinywxuni.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:
+
+/usr/include/unistd.h:
+
+/usr/include/x86_64-linux-gnu/sys/stat.h:

@@ -1,0 +1,11 @@
+workspaceloader.lo: ../../../src/sdk/workspaceloader.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/tinyxml/tinyxml.h \
+ ../../../src/include/tinyxml/tinywxuni.h /usr/include/wx-2.8/wx/intl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+../../../src/include/tinyxml/tinywxuni.h:
+
+/usr/include/wx-2.8/wx/intl.h:

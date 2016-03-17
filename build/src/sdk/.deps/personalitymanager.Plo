@@ -1,0 +1,6 @@
+personalitymanager.lo: ../../../src/sdk/personalitymanager.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/arrstr.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:

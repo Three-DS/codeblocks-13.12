@@ -1,0 +1,14 @@
+managedthread.lo: ../../../src/sdk/managedthread.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/managedthread.h \
+ /usr/include/wx-2.8/wx/thread.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/utils.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/managedthread.h:
+
+/usr/include/wx-2.8/wx/thread.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/utils.h:

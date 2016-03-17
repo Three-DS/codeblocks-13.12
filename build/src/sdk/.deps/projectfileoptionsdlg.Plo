@@ -1,0 +1,54 @@
+projectfileoptionsdlg.lo: ../../../src/sdk/projectfileoptionsdlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/errno.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ ../../../src/include/projectfileoptionsdlg.h \
+ ../../../src/include/scrollingdialog.h ../../../src/include/settings.h \
+ /usr/include/wx-2.8/wx/slider.h /usr/include/wx-2.8/wx/notebook.h \
+ /usr/include/wx-2.8/wx/textfile.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/convauto.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/file.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/errno.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+../../../src/include/projectfileoptionsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/slider.h:
+
+/usr/include/wx-2.8/wx/notebook.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:

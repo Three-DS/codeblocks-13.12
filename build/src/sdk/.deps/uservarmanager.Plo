@@ -1,0 +1,24 @@
+uservarmanager.lo: ../../../src/sdk/uservarmanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/annoyingdialog.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/artprov.h \
+ /usr/include/wx-2.8/wx/choice.h /usr/include/wx-2.8/wx/textdlg.h \
+ /usr/include/ctype.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+/usr/include/wx-2.8/wx/choice.h:
+
+/usr/include/wx-2.8/wx/textdlg.h:
+
+/usr/include/ctype.h:

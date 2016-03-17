@@ -1,0 +1,14 @@
+editarrayorderdlg.lo: ../../../src/sdk/editarrayorderdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editarrayorderdlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editarrayorderdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/settings.h:

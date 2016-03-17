@@ -1,0 +1,48 @@
+newfromtemplatedlg.lo: ../../../src/sdk/newfromtemplatedlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set /usr/include/wx-2.8/wx/listbook.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/bookctrl.h \
+ /usr/include/wx-2.8/wx/radiobox.h \
+ ../../../src/include/newfromtemplatedlg.h \
+ ../../../src/include/scrollingdialog.h ../../../src/include/globals.h \
+ ../../../src/include/pluginmanager.h ../../../src/include/cbplugin.h \
+ ../../../src/include/projecttemplateloader.h \
+ ../../../src/include/tinyxml/tinyxml.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+/usr/include/wx-2.8/wx/listbook.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/bookctrl.h:
+
+/usr/include/wx-2.8/wx/radiobox.h:
+
+../../../src/include/newfromtemplatedlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/globals.h:
+
+../../../src/include/pluginmanager.h:
+
+../../../src/include/cbplugin.h:
+
+../../../src/include/projecttemplateloader.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+../../../src/include/settings.h:

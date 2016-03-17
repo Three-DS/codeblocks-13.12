@@ -1,0 +1,19 @@
+externaldepsdlg.lo: ../../../src/sdk/externaldepsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/externaldepsdlg.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/msgdlg.h ../../../src/include/editpathdlg.h \
+ /usr/include/wx-2.8/wx/intl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/externaldepsdlg.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:
+
+../../../src/include/editpathdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:

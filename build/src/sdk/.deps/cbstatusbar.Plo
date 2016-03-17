@@ -1,0 +1,14 @@
+cbstatusbar.lo: ../../../src/sdk/cbstatusbar.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstatusbar.h \
+ /usr/include/c++/4.8/vector /usr/include/wx-2.8/wx/statusbr.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstatusbar.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/wx-2.8/wx/statusbr.h:
+
+../../../src/include/settings.h:

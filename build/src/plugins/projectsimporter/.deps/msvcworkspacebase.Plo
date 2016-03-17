@@ -1,0 +1,16 @@
+msvcworkspacebase.lo: \
+ ../../../../src/plugins/projectsimporter/msvcworkspacebase.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspacebase.h \
+ /usr/include/wx-2.8/wx/version.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/hashmap.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspacebase.h:
+
+/usr/include/wx-2.8/wx/version.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:

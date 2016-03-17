@@ -1,0 +1,22 @@
+editarrayfiledlg.lo: ../../../src/sdk/editarrayfiledlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filedlg.h \
+ ../../../src/include/editarrayfiledlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/include/settings.h ../../../src/include/filefilters.h \
+ /usr/include/wx-2.8/wx/string.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+../../../src/include/editarrayfiledlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:

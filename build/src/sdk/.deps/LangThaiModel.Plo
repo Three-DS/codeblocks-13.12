@@ -1,0 +1,53 @@
+LangThaiModel.lo: ../../../src/sdk/mozilla_chardet/src/LangThaiModel.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../src/include/mozilla_chardet/nsSBCharSetProber.h \
+ ../../../src/include/mozilla_chardet/nsCharSetProber.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nscore.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nsError.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/mozilla_chardet/nsSBCharSetProber.h:
+
+../../../src/include/mozilla_chardet/nsCharSetProber.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nscore.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nsError.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h:

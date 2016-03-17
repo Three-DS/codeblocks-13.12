@@ -1,0 +1,34 @@
+threadsdlg.o: ../../../src/src/threadsdlg.cpp /usr/include/stdc-predef.h \
+ ../../../src/src/threadsdlg.h /usr/include/wx-2.8/wx/panel.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ ../../../src/include/debuggermanager.h ../../../src/include/sdk.h \
+ ../../../src/include/cbcolourmanager.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/colour.h ../../../src/include/manager.h \
+ ../../../src/include/debuggermanager.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/threadsdlg.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/debuggermanager.h:

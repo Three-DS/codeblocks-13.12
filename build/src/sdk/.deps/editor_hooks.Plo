@@ -1,0 +1,15 @@
+editor_hooks.lo: ../../../src/sdk/editor_hooks.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editor_hooks.h \
+ ../../../src/include/settings.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/c++/4.8/map
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editor_hooks.h:
+
+../../../src/include/settings.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/c++/4.8/map:

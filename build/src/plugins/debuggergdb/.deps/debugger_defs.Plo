@@ -1,0 +1,41 @@
+debugger_defs.lo: ../../../../src/plugins/debuggergdb/debugger_defs.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/include/cbdebugger_interfaces.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/settings.h \
+ ../../../../src/include/debuggermanager.h ../../../../src/include/sdk.h \
+ ../../../../src/plugins/debuggergdb/debugger_defs.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/c++/4.8/deque \
+ /usr/include/c++/4.8/vector ../../../../src/include/debuggermanager.h \
+ ../../../../src/plugins/debuggergdb/debuggerdriver.h \
+ /usr/include/wx-2.8/wx/regex.h ../../../../src/include/globals.h \
+ /usr/include/wx-2.8/wx/arrimpl.cpp
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/cbdebugger_interfaces.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/debuggermanager.h:
+
+../../../../src/include/sdk.h:
+
+../../../../src/plugins/debuggergdb/debugger_defs.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/include/debuggermanager.h:
+
+../../../../src/plugins/debuggergdb/debuggerdriver.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+../../../../src/include/globals.h:
+
+/usr/include/wx-2.8/wx/arrimpl.cpp:

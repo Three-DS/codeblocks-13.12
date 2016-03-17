@@ -1,0 +1,16 @@
+advancedcompileroptionsdlg.lo: \
+ ../../../../src/plugins/compilergcc/advancedcompileroptionsdlg.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/compilergcc/advancedcompileroptionsdlg.h \
+ ../../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/compiler.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/compilergcc/advancedcompileroptionsdlg.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/compiler.h:

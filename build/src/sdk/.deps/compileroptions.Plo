@@ -1,0 +1,6 @@
+compileroptions.lo: ../../../src/sdk/compileroptions.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/compileroptions.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/compileroptions.h:

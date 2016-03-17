@@ -1,0 +1,26 @@
+dlgabout.o: ../../../src/src/dlgabout.cpp /usr/include/stdc-predef.h \
+ /usr/include/wx-2.8/wx/bitmap.h /usr/include/wx-2.8/wx/dcmemory.h \
+ /usr/include/wx-2.8/wx/statbmp.h ../../../src/src/appglobals.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/src/dlgabout.h ../../../src/include/scrollingdialog.h \
+ ../../../src/include/configmanager.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+/usr/include/wx-2.8/wx/dcmemory.h:
+
+/usr/include/wx-2.8/wx/statbmp.h:
+
+../../../src/src/appglobals.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/src/dlgabout.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/configmanager.h:

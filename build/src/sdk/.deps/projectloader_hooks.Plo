@@ -1,0 +1,14 @@
+projectloader_hooks.lo: ../../../src/sdk/projectloader_hooks.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/projectloader_hooks.h \
+ ../../../src/include/settings.h ../../../src/include/tinyxml/tinyxml.h \
+ /usr/include/c++/4.8/map
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/projectloader_hooks.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+/usr/include/c++/4.8/map:

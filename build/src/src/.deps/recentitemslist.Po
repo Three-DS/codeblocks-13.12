@@ -1,0 +1,39 @@
+recentitemslist.o: ../../../src/src/recentitemslist.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/docview.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/list.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/frame.h \
+ /usr/include/wx-2.8/wx/print.h /usr/include/wx-2.8/wx/iosfwrap.h \
+ /usr/include/c++/4.8/iosfwd ../../../src/src/recentitemslist.h \
+ ../../../src/include/annoyingdialog.h ../../../src/include/settings.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/src/startherepage.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/docview.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/list.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/frame.h:
+
+/usr/include/wx-2.8/wx/print.h:
+
+/usr/include/wx-2.8/wx/iosfwrap.h:
+
+/usr/include/c++/4.8/iosfwd:
+
+../../../src/src/recentitemslist.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/src/startherepage.h:

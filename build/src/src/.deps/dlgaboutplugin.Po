@@ -1,0 +1,11 @@
+dlgaboutplugin.o: ../../../src/src/dlgaboutplugin.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbplugin.h \
+ ../../../src/src/dlgaboutplugin.h ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbplugin.h:
+
+../../../src/src/dlgaboutplugin.h:
+
+../../../src/include/scrollingdialog.h:

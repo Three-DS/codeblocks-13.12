@@ -1,0 +1,21 @@
+searchtree.lo: \
+ ../../../../src/plugins/codecompletion/parser/searchtree.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/codecompletion/parser/searchtree.h \
+ ../../../../src/include/prep.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/c++/4.8/vector /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/codecompletion/parser/searchtree.h:
+
+../../../../src/include/prep.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:

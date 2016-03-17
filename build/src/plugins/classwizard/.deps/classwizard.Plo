@@ -1,0 +1,26 @@
+classwizard.lo: ../../../../src/plugins/classwizard/classwizard.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filesys.h \
+ ../../../../src/plugins/classwizard/classwizard.h \
+ ../../../../src/include/cbplugin.h \
+ ../../../../src/plugins/classwizard/classwizarddlg.h \
+ /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/c++/4.8/vector
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filesys.h:
+
+../../../../src/plugins/classwizard/classwizard.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/plugins/classwizard/classwizarddlg.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/c++/4.8/vector:

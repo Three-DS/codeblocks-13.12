@@ -1,0 +1,87 @@
+msvc7workspaceloader.lo: \
+ ../../../../src/plugins/projectsimporter/msvc7workspaceloader.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/stream.h \
+ /usr/include/wx-2.8/wx/progdlg.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h \
+ ../../../../src/plugins/projectsimporter/msvc7workspaceloader.h \
+ ../../../../src/include/ibaseworkspaceloader.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspacebase.h \
+ /usr/include/wx-2.8/wx/version.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../../src/plugins/projectsimporter/msvc7loader.h \
+ ../../../../src/include/ibaseloader.h ../../../../src/include/settings.h \
+ /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/include/importers_globals.h \
+ ../../../../src/include/encodingdetector.h \
+ ../../../../src/include/filemanager.h /usr/include/wx-2.8/wx/fontmap.h \
+ ../../../../src/include/mozilla_chardet/nsUniversalDetector.h \
+ ../../../../src/include/mozilla_chardet/xpcom/base/nscore.h \
+ ../../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ ../../../../src/include/mozilla_chardet/xpcom/base/nsError.h \
+ ../../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h \
+ ../../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h \
+ ../../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h \
+ ../../../../src/include/filefilters.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+../../../../src/plugins/projectsimporter/msvc7workspaceloader.h:
+
+../../../../src/include/ibaseworkspaceloader.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspacebase.h:
+
+/usr/include/wx-2.8/wx/version.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/plugins/projectsimporter/msvc7loader.h:
+
+../../../../src/include/ibaseloader.h:
+
+../../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/importers_globals.h:
+
+../../../../src/include/encodingdetector.h:
+
+../../../../src/include/filemanager.h:
+
+/usr/include/wx-2.8/wx/fontmap.h:
+
+../../../../src/include/mozilla_chardet/nsUniversalDetector.h:
+
+../../../../src/include/mozilla_chardet/xpcom/base/nscore.h:
+
+../../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+../../../../src/include/mozilla_chardet/xpcom/base/nsError.h:
+
+../../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h:
+
+../../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h:
+
+../../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h:
+
+../../../../src/include/filefilters.h:

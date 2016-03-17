@@ -1,0 +1,20 @@
+compilererrors.lo: ../../../../src/plugins/compilergcc/compilererrors.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/compilergcc/compilererrors.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/compiler.h \
+ /usr/include/wx-2.8/wx/arrimpl.cpp
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/compilergcc/compilererrors.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/compiler.h:
+
+/usr/include/wx-2.8/wx/arrimpl.cpp:

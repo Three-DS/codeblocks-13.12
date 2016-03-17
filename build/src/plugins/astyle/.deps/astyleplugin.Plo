@@ -1,0 +1,134 @@
+astyleplugin.lo: ../../../../src/plugins/astyle/astyleplugin.cpp \
+ /usr/include/stdc-predef.h ../../../../src/plugins/astyle/astyleplugin.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/wx.h \
+ ../../../../src/include/cbplugin.h ../../../../src/include/settings.h \
+ ../../../../src/include/cbexception.h \
+ ../../../../src/plugins/astyle/astyleconfigdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/plugins/astyle/astylepredefinedstyles.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/c++/4.8/sstream \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/vector \
+ ../../../../src/plugins/astyle/formattersettings.h \
+ ../../../../src/plugins/astyle/astyle/astyle.h \
+ /usr/include/c++/4.8/cassert /usr/include/assert.h \
+ /usr/include/features.h /usr/include/c++/4.8/cctype \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/ctype.h /usr/include/c++/4.8/iostream /usr/include/string.h \
+ ../../../../src/include/manager.h \
+ ../../../../src/include/editormanager.h \
+ ../../../../src/include/configmanager.h \
+ ../../../../src/include/cbeditor.h /usr/include/wx-2.8/wx/msgdlg.h \
+ /usr/include/wx-2.8/wx/xrc/xmlres.h /usr/include/wx-2.8/wx/fs_zip.h \
+ /usr/include/wx-2.8/wx/strconv.h /usr/include/wx-2.8/wx/progdlg.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h \
+ ../../../../src/plugins/astyle/asstreamiterator.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../../src/include/cbproject.h \
+ ../../../../src/include/projectmanager.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/astyle/astyleplugin.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+../../../../src/include/cbplugin.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/cbexception.h:
+
+../../../../src/plugins/astyle/astyleconfigdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/plugins/astyle/astylepredefinedstyles.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/c++/4.8/sstream:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/vector:
+
+../../../../src/plugins/astyle/formattersettings.h:
+
+../../../../src/plugins/astyle/astyle/astyle.h:
+
+/usr/include/c++/4.8/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/c++/4.8/cctype:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/ctype.h:
+
+/usr/include/c++/4.8/iostream:
+
+/usr/include/string.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/editormanager.h:
+
+../../../../src/include/configmanager.h:
+
+../../../../src/include/cbeditor.h:
+
+/usr/include/wx-2.8/wx/msgdlg.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/fs_zip.h:
+
+/usr/include/wx-2.8/wx/strconv.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+../../../../src/plugins/astyle/asstreamiterator.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/projectmanager.h:

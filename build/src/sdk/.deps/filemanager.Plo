@@ -1,0 +1,50 @@
+filemanager.lo: ../../../src/sdk/filemanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set /usr/include/wx-2.8/wx/url.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/uri.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/protocol/protocol.h \
+ /usr/include/wx-2.8/wx/stream.h /usr/include/wx-2.8/wx/socket.h \
+ /usr/include/wx-2.8/wx/protocol/http.h /usr/include/wx-2.8/wx/hashmap.h \
+ /usr/include/wx-2.8/wx/encconv.h /usr/include/wx-2.8/wx/fontenc.h \
+ /usr/include/wx-2.8/wx/dynarray.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+/usr/include/wx-2.8/wx/url.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/uri.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/protocol/protocol.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/socket.h:
+
+/usr/include/wx-2.8/wx/protocol/http.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+/usr/include/wx-2.8/wx/encconv.h:
+
+/usr/include/wx-2.8/wx/fontenc.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:

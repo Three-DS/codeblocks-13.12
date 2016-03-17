@@ -1,0 +1,213 @@
+pluginmanager.lo: ../../../src/sdk/pluginmanager.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/dynlib.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/dlfcn.h \
+ /usr/include/features.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/dlfcn.h \
+ /usr/include/wx-2.8/wx/filesys.h /usr/include/wx-2.8/wx/progdlg.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h /usr/include/wx-2.8/wx/utils.h \
+ /usr/include/wx-2.8/wx/filename.h /usr/include/wx-2.8/wx/wfstream.h \
+ /usr/include/wx-2.8/wx/zipstrm.h /usr/include/wx-2.8/wx/archive.h \
+ /usr/include/wx-2.8/wx/stream.h /usr/include/wx-2.8/wx/txtstrm.h \
+ ../../../src/include/filefilters.h ../../../src/include/settings.h \
+ ../../../src/include/tinyxml/tinyxml.h \
+ ../../../src/include/annoyingdialog.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/pluginsconfigurationdlg.h \
+ /usr/include/wx-2.8/wx/html/htmlwin.h /usr/include/wx-2.8/wx/window.h \
+ /usr/include/wx-2.8/wx/scrolwin.h /usr/include/wx-2.8/wx/config.h \
+ /usr/include/wx-2.8/wx/confbase.h /usr/include/wx-2.8/wx/fileconf.h \
+ /usr/include/wx-2.8/wx/textfile.h /usr/include/wx-2.8/wx/textbuf.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/wx-2.8/wx/convauto.h \
+ /usr/include/wx-2.8/wx/file.h /usr/include/wx-2.8/wx/stopwatch.h \
+ /usr/include/wx-2.8/wx/html/winpars.h /usr/include/wx-2.8/wx/module.h \
+ /usr/include/wx-2.8/wx/font.h /usr/include/wx-2.8/wx/html/htmlpars.h \
+ /usr/include/wx-2.8/wx/html/htmltag.h /usr/include/wx-2.8/wx/object.h \
+ /usr/include/wx-2.8/wx/hash.h /usr/include/wx-2.8/wx/fontenc.h \
+ /usr/include/wx-2.8/wx/html/htmlcell.h \
+ /usr/include/wx-2.8/wx/html/htmldefs.h /usr/include/wx-2.8/wx/encconv.h \
+ /usr/include/wx-2.8/wx/html/htmlfilt.h /usr/include/wx-2.8/wx/bitmap.h \
+ ../../../src/include/scripting/bindings/sc_plugin.h \
+ ../../../src/include/scripting/bindings/sc_base_types.h \
+ ../../../src/include/globals.h ../../../src/include/settings.h \
+ ../../../src/include/manager.h ../../../src/include/logmanager.h \
+ ../../../src/include/configmanager.h \
+ ../../../src/include/editormanager.h \
+ ../../../src/include/projectmanager.h \
+ ../../../src/include/macrosmanager.h \
+ ../../../src/include/uservarmanager.h \
+ ../../../src/include/pluginmanager.h \
+ ../../../src/include/scriptingmanager.h \
+ ../../../src/include/compilerfactory.h \
+ ../../../src/include/compiletargetbase.h \
+ ../../../src/include/cbproject.h ../../../src/include/cbeditor.h \
+ ../../../src/include/scripting/sqplus/sqplus.h /usr/include/stdlib.h \
+ /usr/include/malloc.h /usr/include/stdio.h /usr/include/memory.h \
+ ../../../src/include/scripting/include/squirrel.h \
+ ../../../src/include/scripting/sqplus/SquirrelObject.h \
+ ../../../src/include/scripting/sqplus/sqplus.h \
+ ../../../src/include/scripting/sqplus/SquirrelVM.h \
+ ../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h \
+ ../../../src/include/scripting/sqplus/SqPlusConst.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/dynlib.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/dlfcn.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/dlfcn.h:
+
+/usr/include/wx-2.8/wx/filesys.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/utils.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/wfstream.h:
+
+/usr/include/wx-2.8/wx/zipstrm.h:
+
+/usr/include/wx-2.8/wx/archive.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/txtstrm.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/pluginsconfigurationdlg.h:
+
+/usr/include/wx-2.8/wx/html/htmlwin.h:
+
+/usr/include/wx-2.8/wx/window.h:
+
+/usr/include/wx-2.8/wx/scrolwin.h:
+
+/usr/include/wx-2.8/wx/config.h:
+
+/usr/include/wx-2.8/wx/confbase.h:
+
+/usr/include/wx-2.8/wx/fileconf.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/stopwatch.h:
+
+/usr/include/wx-2.8/wx/html/winpars.h:
+
+/usr/include/wx-2.8/wx/module.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/html/htmlpars.h:
+
+/usr/include/wx-2.8/wx/html/htmltag.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/hash.h:
+
+/usr/include/wx-2.8/wx/fontenc.h:
+
+/usr/include/wx-2.8/wx/html/htmlcell.h:
+
+/usr/include/wx-2.8/wx/html/htmldefs.h:
+
+/usr/include/wx-2.8/wx/encconv.h:
+
+/usr/include/wx-2.8/wx/html/htmlfilt.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+../../../src/include/scripting/bindings/sc_plugin.h:
+
+../../../src/include/scripting/bindings/sc_base_types.h:
+
+../../../src/include/globals.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/logmanager.h:
+
+../../../src/include/configmanager.h:
+
+../../../src/include/editormanager.h:
+
+../../../src/include/projectmanager.h:
+
+../../../src/include/macrosmanager.h:
+
+../../../src/include/uservarmanager.h:
+
+../../../src/include/pluginmanager.h:
+
+../../../src/include/scriptingmanager.h:
+
+../../../src/include/compilerfactory.h:
+
+../../../src/include/compiletargetbase.h:
+
+../../../src/include/cbproject.h:
+
+../../../src/include/cbeditor.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/malloc.h:
+
+/usr/include/stdio.h:
+
+/usr/include/memory.h:
+
+../../../src/include/scripting/include/squirrel.h:
+
+../../../src/include/scripting/sqplus/SquirrelObject.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+../../../src/include/scripting/sqplus/SquirrelVM.h:
+
+../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h:
+
+../../../src/include/scripting/sqplus/SqPlusConst.h:

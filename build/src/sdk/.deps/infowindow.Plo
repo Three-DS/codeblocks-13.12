@@ -1,0 +1,17 @@
+infowindow.lo: ../../../src/sdk/infowindow.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/4.8/limits \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/wx-2.8/wx/display.h /usr/include/wx-2.8/wx/dynarray.h \
+ /usr/include/wx-2.8/wx/vidmode.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/limits:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/wx-2.8/wx/display.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/vidmode.h:

@@ -1,0 +1,12 @@
+configuretoolsdlg.lo: ../../../src/sdk/configuretoolsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/configuretoolsdlg.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/edittooldlg.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/configuretoolsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/edittooldlg.h:

@@ -1,0 +1,11 @@
+appglobals.o: ../../../src/src/appglobals.cpp /usr/include/stdc-predef.h \
+ ../../../src/src/appglobals.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/intl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/appglobals.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/intl.h:

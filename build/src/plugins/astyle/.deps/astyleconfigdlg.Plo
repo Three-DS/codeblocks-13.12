@@ -1,0 +1,86 @@
+astyleconfigdlg.lo: ../../../../src/plugins/astyle/astyleconfigdlg.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/astyle/astyleconfigdlg.h \
+ /usr/include/wx-2.8/wx/intl.h \
+ ../../../../src/plugins/astyle/astylepredefinedstyles.h \
+ ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h ../../../../src/include/configmanager.h \
+ /usr/include/wx-2.8/wx/xrc/xmlres.h /usr/include/wx-2.8/wx/font.h \
+ /usr/include/wx-2.8/wx/radiobut.h /usr/include/wx-2.8/wx/checkbox.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/combobox.h \
+ /usr/include/wx-2.8/wx/spinctrl.h \
+ ../../../../src/plugins/astyle/dlgformattersettings.h \
+ ../../../../src/plugins/astyle/astyle/astyle.h \
+ /usr/include/c++/4.8/cassert /usr/include/assert.h \
+ /usr/include/features.h /usr/include/c++/4.8/cctype \
+ /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/ctype.h /usr/include/c++/4.8/iostream \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/vector \
+ /usr/include/string.h ../../../../src/plugins/astyle/asstreamiterator.h \
+ ../../../../src/include/cbeditor.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/astyle/astyleconfigdlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../../src/plugins/astyle/astylepredefinedstyles.h:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/configmanager.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/radiobut.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/combobox.h:
+
+/usr/include/wx-2.8/wx/spinctrl.h:
+
+../../../../src/plugins/astyle/dlgformattersettings.h:
+
+../../../../src/plugins/astyle/astyle/astyle.h:
+
+/usr/include/c++/4.8/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/c++/4.8/cctype:
+
+/usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/ctype.h:
+
+/usr/include/c++/4.8/iostream:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/string.h:
+
+../../../../src/plugins/astyle/asstreamiterator.h:
+
+../../../../src/include/cbeditor.h:

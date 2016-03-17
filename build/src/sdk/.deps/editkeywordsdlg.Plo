@@ -1,0 +1,11 @@
+editkeywordsdlg.lo: ../../../src/sdk/editkeywordsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/editkeywordsdlg.h \
+ ../../../src/include/scrollingdialog.h ../../../src/include/globals.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/editkeywordsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/globals.h:

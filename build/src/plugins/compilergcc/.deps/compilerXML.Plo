@@ -1,0 +1,37 @@
+compilerXML.lo: ../../../../src/plugins/compilergcc/compilerXML.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/filefn.h \
+ /usr/include/wx-2.8/wx/textfile.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/textbuf.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/convauto.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/dynarray.h /usr/include/wx-2.8/wx/file.h \
+ /usr/include/wx-2.8/wx/regex.h /usr/include/wx-2.8/wx/xml/xml.h \
+ ../../../../src/plugins/compilergcc/compilerXML.h \
+ ../../../../src/include/compiler.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/filefn.h:
+
+/usr/include/wx-2.8/wx/textfile.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/textbuf.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/convauto.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+/usr/include/wx-2.8/wx/file.h:
+
+/usr/include/wx-2.8/wx/regex.h:
+
+/usr/include/wx-2.8/wx/xml/xml.h:
+
+../../../../src/plugins/compilergcc/compilerXML.h:
+
+../../../../src/include/compiler.h:

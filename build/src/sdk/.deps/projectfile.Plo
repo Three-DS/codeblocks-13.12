@@ -1,0 +1,16 @@
+projectfile.lo: ../../../src/sdk/projectfile.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/projectfileoptionsdlg.h \
+ ../../../src/include/scrollingdialog.h ../../../src/include/settings.h \
+ ../../../src/include/filefilters.h /usr/include/wx-2.8/wx/string.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/projectfileoptionsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:

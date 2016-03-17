@@ -1,0 +1,9 @@
+asktypedlg.lo: ../../../../src/plugins/todo/asktypedlg.cpp \
+ /usr/include/stdc-predef.h ../../../../src/plugins/todo/asktypedlg.h \
+ ../../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/todo/asktypedlg.h:
+
+../../../../src/include/scrollingdialog.h:

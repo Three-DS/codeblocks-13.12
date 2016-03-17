@@ -1,0 +1,97 @@
+cbeditor.lo: ../../../src/sdk/cbeditor.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/manager.h /usr/include/wx-2.8/wx/fontutil.h \
+ /usr/include/wx-2.8/wx/splitter.h \
+ ../../../src/include/cbeditorprintout.h /usr/include/wx-2.8/wx/print.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ ../../../src/include/settings.h ../../../src/include/debuggermanager.h \
+ ../../../src/include/sdk.h ../../../src/include/sdk_precomp.h \
+ ../../../src/include/editor_hooks.h \
+ ../../../src/include/encodingdetector.h \
+ ../../../src/include/filemanager.h /usr/include/wx-2.8/wx/fontmap.h \
+ ../../../src/include/mozilla_chardet/nsUniversalDetector.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nscore.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ ../../../src/include/mozilla_chardet/xpcom/base/nsError.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h \
+ ../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h \
+ ../../../src/include/filefilters.h \
+ ../../../src/include/projectfileoptionsdlg.h \
+ ../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:
+
+/usr/include/wx-2.8/wx/fontutil.h:
+
+/usr/include/wx-2.8/wx/splitter.h:
+
+../../../src/include/cbeditorprintout.h:
+
+/usr/include/wx-2.8/wx/print.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/include/sdk_precomp.h:
+
+../../../src/include/editor_hooks.h:
+
+../../../src/include/encodingdetector.h:
+
+../../../src/include/filemanager.h:
+
+/usr/include/wx-2.8/wx/fontmap.h:
+
+../../../src/include/mozilla_chardet/nsUniversalDetector.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nscore.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/StandardInteger.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+../../../src/include/mozilla_chardet/xpcom/base/nsError.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Attributes.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Compiler.h:
+
+../../../src/include/mozilla_chardet/mfbt/mozilla/Likely.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/projectfileoptionsdlg.h:
+
+../../../src/include/scrollingdialog.h:

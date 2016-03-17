@@ -1,0 +1,27 @@
+sqstdaux.lo: ../../../../../src/sdk/scripting/sqstdlib/sqstdaux.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../../src/include/scripting/include/squirrel.h \
+ ../../../../../src/include/scripting/include/sqstdaux.h \
+ /usr/include/assert.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h
+
+/usr/include/stdc-predef.h:
+
+../../../../../src/include/scripting/include/squirrel.h:
+
+../../../../../src/include/scripting/include/sqstdaux.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:

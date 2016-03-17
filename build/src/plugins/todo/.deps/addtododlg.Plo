@@ -1,0 +1,27 @@
+addtododlg.lo: ../../../../src/plugins/todo/addtododlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/textdlg.h \
+ ../../../../src/plugins/todo/addtododlg.h /usr/include/c++/4.8/bitset \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/bits/functexcept.h \
+ /usr/include/c++/4.8/iosfwd /usr/include/c++/4.8/bits/cxxabi_forced.h \
+ /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/include/scrollingdialog.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/textdlg.h:
+
+../../../../src/plugins/todo/addtododlg.h:
+
+/usr/include/c++/4.8/bitset:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/bits/functexcept.h:
+
+/usr/include/c++/4.8/iosfwd:
+
+/usr/include/c++/4.8/bits/cxxabi_forced.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/scrollingdialog.h:

@@ -1,0 +1,45 @@
+occurrenceshighlightingconfigurationpanel.lo: \
+ ../../../../src/plugins/occurrenceshighlighting/occurrenceshighlightingconfigurationpanel.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/occurrenceshighlighting/occurrenceshighlightingconfigurationpanel.h \
+ ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../../src/include/configurationpanel.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/panel.h \
+ /usr/include/wx-2.8/wx/string.h \
+ ../../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h ../../../../src/include/manager.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/occurrenceshighlighting/occurrenceshighlightingconfigurationpanel.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../../src/include/configurationpanel.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+../../../../src/include/manager.h:

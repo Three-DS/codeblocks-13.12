@@ -1,0 +1,6 @@
+blockallocated.lo: ../../../src/sdk/blockallocated.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/blockallocated.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/blockallocated.h:

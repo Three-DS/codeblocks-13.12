@@ -1,0 +1,73 @@
+projectmanagerui.o: ../../../src/src/projectmanagerui.cpp \
+ /usr/include/stdc-predef.h ../../../src/src/projectmanagerui.h \
+ ../../../src/include/projectmanager.h ../../../src/include/cbauibook.h \
+ ../../../src/include/cbcolourmanager.h /usr/include/c++/4.8/map \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/manager.h ../../../src/include/confirmreplacedlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/intl.h \
+ ../../../src/include/settings.h ../../../src/include/filefilters.h \
+ ../../../src/include/filegroupsandmasks.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/settings.h \
+ ../../../src/include/incrementalselectlistdlg.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/listbox.h \
+ ../../../src/include/multiselectdlg.h \
+ ../../../src/include/projectdepsdlg.h \
+ ../../../src/include/projectfileoptionsdlg.h \
+ ../../../src/src/projectoptionsdlg.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/projectsfilemasksdlg.h \
+ ../../../src/include/filegroupsandmasks.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/projectmanagerui.h:
+
+../../../src/include/projectmanager.h:
+
+../../../src/include/cbauibook.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/confirmreplacedlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/filegroupsandmasks.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/incrementalselectlistdlg.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+../../../src/include/multiselectdlg.h:
+
+../../../src/include/projectdepsdlg.h:
+
+../../../src/include/projectfileoptionsdlg.h:
+
+../../../src/src/projectoptionsdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/projectsfilemasksdlg.h:
+
+../../../src/include/filegroupsandmasks.h:

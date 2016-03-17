@@ -1,0 +1,44 @@
+scriptingsettingsdlg.o: ../../../src/src/scriptingsettingsdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/src/scriptingsettingsdlg.h \
+ /usr/include/c++/4.8/vector /usr/include/wx-2.8/wx/listctrl.h \
+ ../../../src/include/scrollingdialog.h ../../../src/include/manager.h \
+ ../../../src/include/configmanager.h ../../../src/include/filefilters.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/button.h \
+ /usr/include/wx-2.8/wx/checkbox.h /usr/include/wx-2.8/wx/xrc/xmlres.h \
+ /usr/include/wx-2.8/wx/filedlg.h /usr/include/wx-2.8/wx/filename.h \
+ /usr/include/wx-2.8/wx/intl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/scriptingsettingsdlg.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/wx-2.8/wx/listctrl.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/manager.h:
+
+../../../src/include/configmanager.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+/usr/include/wx-2.8/wx/filedlg.h:
+
+/usr/include/wx-2.8/wx/filename.h:
+
+/usr/include/wx-2.8/wx/intl.h:

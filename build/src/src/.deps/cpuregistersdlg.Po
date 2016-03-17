@@ -1,0 +1,30 @@
+cpuregistersdlg.o: ../../../src/src/cpuregistersdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/src/cpuregistersdlg.h \
+ /usr/include/wx-2.8/wx/panel.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h \
+ ../../../src/include/debuggermanager.h ../../../src/include/sdk.h \
+ /usr/include/wx-2.8/wx/intl.h /usr/include/wx-2.8/wx/sizer.h \
+ /usr/include/wx-2.8/wx/listctrl.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/cpuregistersdlg.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/listctrl.h:

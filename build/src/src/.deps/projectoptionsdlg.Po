@@ -1,0 +1,123 @@
+projectoptionsdlg.o: ../../../src/src/projectoptionsdlg.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/radiobox.h \
+ ../../../src/include/scripting/sqplus/sqplus.h /usr/include/stdlib.h \
+ /usr/include/malloc.h /usr/include/features.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/stdio.h \
+ /usr/include/memory.h ../../../src/include/scripting/include/squirrel.h \
+ ../../../src/include/scripting/sqplus/SquirrelObject.h \
+ ../../../src/include/scripting/sqplus/sqplus.h \
+ ../../../src/include/scripting/sqplus/SquirrelVM.h \
+ ../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h \
+ ../../../src/include/scripting/sqplus/SqPlusConst.h \
+ ../../../src/include/annoyingdialog.h ../../../src/include/settings.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ /usr/include/wx-2.8/wx/panel.h ../../../src/include/editarrayorderdlg.h \
+ /usr/include/wx-2.8/wx/arrstr.h ../../../src/include/editarrayfiledlg.h \
+ /usr/include/wx-2.8/wx/intl.h ../../../src/include/editpathdlg.h \
+ ../../../src/include/externaldepsdlg.h \
+ ../../../src/include/filefilters.h ../../../src/include/multiselectdlg.h \
+ /usr/include/wx-2.8/wx/dynarray.h ../../../src/include/projectdepsdlg.h \
+ ../../../src/include/projectloader.h /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../src/include/ibaseloader.h ../../../src/src/projectoptionsdlg.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ ../../../src/include/virtualbuildtargetsdlg.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/wxchar.h /usr/include/wx-2.8/wx/wx.h \
+ /usr/include/wx-2.8/wx/checklst.h /usr/include/wx-2.8/wx/listbox.h \
+ /usr/include/wx-2.8/wx/button.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/radiobox.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/malloc.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/memory.h:
+
+../../../src/include/scripting/include/squirrel.h:
+
+../../../src/include/scripting/sqplus/SquirrelObject.h:
+
+../../../src/include/scripting/sqplus/sqplus.h:
+
+../../../src/include/scripting/sqplus/SquirrelVM.h:
+
+../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h:
+
+../../../src/include/scripting/sqplus/SqPlusConst.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/configurationpanel.h:
+
+../../../src/include/globals.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../src/include/editarrayorderdlg.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/editarrayfiledlg.h:
+
+/usr/include/wx-2.8/wx/intl.h:
+
+../../../src/include/editpathdlg.h:
+
+../../../src/include/externaldepsdlg.h:
+
+../../../src/include/filefilters.h:
+
+../../../src/include/multiselectdlg.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:
+
+../../../src/include/projectdepsdlg.h:
+
+../../../src/include/projectloader.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../src/include/ibaseloader.h:
+
+../../../src/src/projectoptionsdlg.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+../../../src/include/virtualbuildtargetsdlg.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+/usr/include/wx-2.8/wx/checklst.h:
+
+/usr/include/wx-2.8/wx/listbox.h:
+
+/usr/include/wx-2.8/wx/button.h:

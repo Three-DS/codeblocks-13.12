@@ -1,0 +1,166 @@
+wizpage.lo: ../../../../src/plugins/scriptedwizard/wizpage.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/include/scripting/bindings/sc_base_types.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../../src/include/globals.h ../../../../src/include/settings.h \
+ ../../../../src/include/manager.h ../../../../src/include/logmanager.h \
+ ../../../../src/include/configmanager.h \
+ ../../../../src/include/editormanager.h \
+ ../../../../src/include/projectmanager.h \
+ ../../../../src/include/macrosmanager.h \
+ ../../../../src/include/uservarmanager.h \
+ ../../../../src/include/pluginmanager.h \
+ ../../../../src/include/scriptingmanager.h \
+ ../../../../src/include/compilerfactory.h \
+ ../../../../src/include/compiletargetbase.h \
+ ../../../../src/include/cbproject.h ../../../../src/include/cbeditor.h \
+ ../../../../src/include/scripting/sqplus/sqplus.h /usr/include/stdlib.h \
+ /usr/include/malloc.h /usr/include/features.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/stdio.h \
+ /usr/include/memory.h \
+ ../../../../src/include/scripting/include/squirrel.h \
+ ../../../../src/include/scripting/sqplus/SquirrelObject.h \
+ ../../../../src/include/scripting/sqplus/sqplus.h \
+ ../../../../src/include/scripting/sqplus/SquirrelVM.h \
+ ../../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h \
+ ../../../../src/include/scripting/sqplus/SqPlusConst.h \
+ ../../../../src/plugins/scriptedwizard/wizpage.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/wizard.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/dialog.h \
+ /usr/include/wx-2.8/wx/panel.h /usr/include/wx-2.8/wx/event.h \
+ /usr/include/wx-2.8/wx/bitmap.h /usr/include/wx-2.8/wx/generic/wizard.h \
+ /usr/include/wx-2.8/wx/xrc/xmlres.h \
+ ../../../../src/plugins/scriptedwizard/infopanel.h \
+ /usr/include/wx-2.8/wx/wxprec.h /usr/include/wx-2.8/wx/wxchar.h \
+ /usr/include/wx-2.8/wx/wx.h /usr/include/wx-2.8/wx/sizer.h \
+ /usr/include/wx-2.8/wx/stattext.h /usr/include/wx-2.8/wx/checkbox.h \
+ ../../../../src/plugins/scriptedwizard/projectpathpanel.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/button.h \
+ ../../../../src/plugins/scriptedwizard/compilerpanel.h \
+ /usr/include/wx-2.8/wx/combobox.h \
+ ../../../../src/plugins/scriptedwizard/buildtargetpanel.h \
+ ../../../../src/plugins/scriptedwizard/filepathpanel.h \
+ /usr/include/wx-2.8/wx/checklst.h \
+ ../../../../src/plugins/scriptedwizard/genericselectpath.h \
+ ../../../../src/plugins/scriptedwizard/genericsinglechoicelist.h \
+ /usr/include/wx-2.8/wx/listbox.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/scripting/bindings/sc_base_types.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../../src/include/globals.h:
+
+../../../../src/include/settings.h:
+
+../../../../src/include/manager.h:
+
+../../../../src/include/logmanager.h:
+
+../../../../src/include/configmanager.h:
+
+../../../../src/include/editormanager.h:
+
+../../../../src/include/projectmanager.h:
+
+../../../../src/include/macrosmanager.h:
+
+../../../../src/include/uservarmanager.h:
+
+../../../../src/include/pluginmanager.h:
+
+../../../../src/include/scriptingmanager.h:
+
+../../../../src/include/compilerfactory.h:
+
+../../../../src/include/compiletargetbase.h:
+
+../../../../src/include/cbproject.h:
+
+../../../../src/include/cbeditor.h:
+
+../../../../src/include/scripting/sqplus/sqplus.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/malloc.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/memory.h:
+
+../../../../src/include/scripting/include/squirrel.h:
+
+../../../../src/include/scripting/sqplus/SquirrelObject.h:
+
+../../../../src/include/scripting/sqplus/sqplus.h:
+
+../../../../src/include/scripting/sqplus/SquirrelVM.h:
+
+../../../../src/include/scripting/sqplus/SquirrelBindingsUtils.h:
+
+../../../../src/include/scripting/sqplus/SqPlusConst.h:
+
+../../../../src/plugins/scriptedwizard/wizpage.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/wizard.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+/usr/include/wx-2.8/wx/event.h:
+
+/usr/include/wx-2.8/wx/bitmap.h:
+
+/usr/include/wx-2.8/wx/generic/wizard.h:
+
+/usr/include/wx-2.8/wx/xrc/xmlres.h:
+
+../../../../src/plugins/scriptedwizard/infopanel.h:
+
+/usr/include/wx-2.8/wx/wxprec.h:
+
+/usr/include/wx-2.8/wx/wxchar.h:
+
+/usr/include/wx-2.8/wx/wx.h:
+
+/usr/include/wx-2.8/wx/sizer.h:
+
+/usr/include/wx-2.8/wx/stattext.h:
+
+/usr/include/wx-2.8/wx/checkbox.h:
+
+../../../../src/plugins/scriptedwizard/projectpathpanel.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/button.h:
+
+../../../../src/plugins/scriptedwizard/compilerpanel.h:
+
+/usr/include/wx-2.8/wx/combobox.h:
+
+../../../../src/plugins/scriptedwizard/buildtargetpanel.h:
+
+../../../../src/plugins/scriptedwizard/filepathpanel.h:
+
+/usr/include/wx-2.8/wx/checklst.h:
+
+../../../../src/plugins/scriptedwizard/genericselectpath.h:
+
+../../../../src/plugins/scriptedwizard/genericsinglechoicelist.h:
+
+/usr/include/wx-2.8/wx/listbox.h:

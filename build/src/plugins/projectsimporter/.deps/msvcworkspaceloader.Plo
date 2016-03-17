@@ -1,0 +1,41 @@
+msvcworkspaceloader.lo: \
+ ../../../../src/plugins/projectsimporter/msvcworkspaceloader.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/stream.h \
+ /usr/include/wx-2.8/wx/progdlg.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/generic/progdlgg.h \
+ /usr/include/wx-2.8/wx/dialog.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspaceloader.h \
+ ../../../../src/include/ibaseworkspaceloader.h \
+ ../../../../src/plugins/projectsimporter/msvcworkspacebase.h \
+ /usr/include/wx-2.8/wx/version.h /usr/include/wx-2.8/wx/arrstr.h \
+ /usr/include/wx-2.8/wx/hashmap.h \
+ ../../../../src/include/importers_globals.h \
+ ../../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/progdlg.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/generic/progdlgg.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspaceloader.h:
+
+../../../../src/include/ibaseworkspaceloader.h:
+
+../../../../src/plugins/projectsimporter/msvcworkspacebase.h:
+
+/usr/include/wx-2.8/wx/version.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+../../../../src/include/importers_globals.h:
+
+../../../../src/include/settings.h:

@@ -1,0 +1,52 @@
+debuggermanager.lo: ../../../src/sdk/debuggermanager.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/4.8/algorithm \
+ /usr/include/wx-2.8/wx/toolbar.h ../../../src/include/debuggermanager.h \
+ ../../../src/include/sdk.h ../../../src/include/sdk_precomp.h \
+ ../../../src/include/annoyingdialog.h ../../../src/include/settings.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/artprov.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ ../../../src/include/debuggermanager.h ../../../src/include/loggers.h \
+ ../../../src/include/logger.h /usr/include/wx-2.8/wx/colour.h \
+ /usr/include/wx-2.8/wx/font.h /usr/include/wx-2.8/wx/ffile.h \
+ /usr/include/wx-2.8/wx/textctrl.h ../../../src/include/manager.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/algorithm:
+
+/usr/include/wx-2.8/wx/toolbar.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/sdk.h:
+
+../../../src/include/sdk_precomp.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:
+
+../../../src/include/cbdebugger_interfaces.h:
+
+../../../src/include/debuggermanager.h:
+
+../../../src/include/loggers.h:
+
+../../../src/include/logger.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/font.h:
+
+/usr/include/wx-2.8/wx/ffile.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+../../../src/include/manager.h:

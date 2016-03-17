@@ -1,0 +1,24 @@
+autodetectcompilers.lo: ../../../src/sdk/autodetectcompilers.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/autodetectcompilers.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/tooltip.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/gtk/tooltip.h \
+ /usr/include/wx-2.8/wx/string.h /usr/include/wx-2.8/wx/object.h \
+ ../../../src/include/infowindow.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/autodetectcompilers.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/tooltip.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/gtk/tooltip.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+../../../src/include/infowindow.h:

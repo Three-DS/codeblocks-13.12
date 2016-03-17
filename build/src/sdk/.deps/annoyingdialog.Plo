@@ -1,0 +1,19 @@
+annoyingdialog.lo: ../../../src/sdk/annoyingdialog.cpp \
+ /usr/include/stdc-predef.h /usr/include/wx-2.8/wx/statbmp.h \
+ ../../../src/include/annoyingdialog.h ../../../src/include/settings.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/artprov.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/wx-2.8/wx/statbmp.h:
+
+../../../src/include/annoyingdialog.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/artprov.h:

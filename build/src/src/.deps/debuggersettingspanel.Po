@@ -1,0 +1,29 @@
+debuggersettingspanel.o: ../../../src/src/debuggersettingspanel.cpp \
+ /usr/include/stdc-predef.h ../../../src/src/debuggersettingspanel.h \
+ ../../../src/src/debuggersettingsdlg.h /usr/include/wx-2.8/wx/statline.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/control.h \
+ /usr/include/wx-2.8/wx/gtk/statline.h /usr/include/wx-2.8/wx/treebook.h \
+ /usr/include/wx-2.8/wx/bookctrl.h /usr/include/wx-2.8/wx/treectrl.h \
+ /usr/include/wx-2.8/wx/containr.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/src/debuggersettingspanel.h:
+
+../../../src/src/debuggersettingsdlg.h:
+
+/usr/include/wx-2.8/wx/statline.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/control.h:
+
+/usr/include/wx-2.8/wx/gtk/statline.h:
+
+/usr/include/wx-2.8/wx/treebook.h:
+
+/usr/include/wx-2.8/wx/bookctrl.h:
+
+/usr/include/wx-2.8/wx/treectrl.h:
+
+/usr/include/wx-2.8/wx/containr.h:

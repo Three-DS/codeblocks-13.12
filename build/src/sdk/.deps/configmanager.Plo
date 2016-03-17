@@ -1,0 +1,47 @@
+configmanager.lo: ../../../src/sdk/configmanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/crc32.h \
+ ../../../src/include/settings.h /usr/include/wx-2.8/wx/defs.h \
+ /usr/include/wx-2.8/wx/url.h /usr/include/wx-2.8/wx/uri.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/protocol/protocol.h \
+ /usr/include/wx-2.8/wx/stream.h /usr/include/wx-2.8/wx/socket.h \
+ /usr/include/wx-2.8/wx/protocol/http.h /usr/include/wx-2.8/wx/hashmap.h \
+ /usr/include/wx-2.8/wx/stdpaths.h /usr/include/wx-2.8/wx/filefn.h \
+ /usr/include/wx-2.8/wx/unix/stdpaths.h \
+ ../../../src/include/tinyxml/tinywxuni.h /usr/include/stdlib.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/crc32.h:
+
+../../../src/include/settings.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/url.h:
+
+/usr/include/wx-2.8/wx/uri.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/protocol/protocol.h:
+
+/usr/include/wx-2.8/wx/stream.h:
+
+/usr/include/wx-2.8/wx/socket.h:
+
+/usr/include/wx-2.8/wx/protocol/http.h:
+
+/usr/include/wx-2.8/wx/hashmap.h:
+
+/usr/include/wx-2.8/wx/stdpaths.h:
+
+/usr/include/wx-2.8/wx/filefn.h:
+
+/usr/include/wx-2.8/wx/unix/stdpaths.h:
+
+../../../src/include/tinyxml/tinywxuni.h:
+
+/usr/include/stdlib.h:

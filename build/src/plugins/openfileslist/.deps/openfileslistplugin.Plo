@@ -1,0 +1,13 @@
+openfileslistplugin.lo: \
+ ../../../../src/plugins/openfileslist/openfileslistplugin.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../../src/plugins/openfileslist/openfileslistplugin.h \
+ ../../../../src/include/cbplugin.h /usr/include/wx-2.8/wx/dynarray.h
+
+/usr/include/stdc-predef.h:
+
+../../../../src/plugins/openfileslist/openfileslistplugin.h:
+
+../../../../src/include/cbplugin.h:
+
+/usr/include/wx-2.8/wx/dynarray.h:

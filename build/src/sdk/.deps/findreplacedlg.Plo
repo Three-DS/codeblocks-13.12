@@ -1,0 +1,16 @@
+findreplacedlg.lo: ../../../src/sdk/findreplacedlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/findreplacedlg.h \
+ /usr/include/wx-2.8/wx/notebook.h ../../../src/include/findreplacebase.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/string.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/findreplacedlg.h:
+
+/usr/include/wx-2.8/wx/notebook.h:
+
+../../../src/include/findreplacebase.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/string.h:

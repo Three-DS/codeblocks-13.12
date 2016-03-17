@@ -1,0 +1,17 @@
+incrementalselectlistdlg.lo: \
+ ../../../src/sdk/incrementalselectlistdlg.cpp /usr/include/stdc-predef.h \
+ ../../../src/include/incrementalselectlistdlg.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/textctrl.h /usr/include/wx-2.8/wx/listbox.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/incrementalselectlistdlg.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/textctrl.h:
+
+/usr/include/wx-2.8/wx/listbox.h:

@@ -1,0 +1,11 @@
+compiletargetbase.lo: ../../../src/sdk/compiletargetbase.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/filefilters.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/filefilters.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/settings.h:

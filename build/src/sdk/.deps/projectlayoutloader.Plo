@@ -1,0 +1,14 @@
+projectlayoutloader.lo: ../../../src/sdk/projectlayoutloader.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/projectlayoutloader.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/tinyxml/tinyxml.h \
+ ../../../src/include/tinyxml/tinywxuni.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/projectlayoutloader.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/tinyxml/tinyxml.h:
+
+../../../src/include/tinyxml/tinywxuni.h:

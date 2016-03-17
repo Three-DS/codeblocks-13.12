@@ -1,0 +1,78 @@
+editorconfigurationdlg.o: ../../../src/src/editorconfigurationdlg.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set ../../../src/include/cbcolourmanager.h \
+ /usr/include/wx-2.8/wx/colour.h /usr/include/wx-2.8/wx/string.h \
+ ../../../src/include/manager.h /usr/include/wx-2.8/wx/fontdlg.h \
+ /usr/include/wx-2.8/wx/defs.h /usr/include/wx-2.8/wx/dialog.h \
+ /usr/include/wx-2.8/wx/cmndata.h /usr/include/wx-2.8/wx/gtk/fontdlg.h \
+ /usr/include/wx-2.8/wx/fontutil.h /usr/include/wx-2.8/wx/fontmap.h \
+ /usr/include/wx-2.8/wx/listbook.h /usr/include/wx-2.8/wx/bookctrl.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ /usr/include/wx-2.8/wx/panel.h ../../../src/include/editkeywordsdlg.h \
+ ../../../src/include/editorcolourset.h \
+ ../../../src/src/editorconfigurationdlg.h \
+ ../../../src/include/scrollingdialog.h /usr/include/wx-2.8/wx/arrstr.h \
+ ../../../src/include/settings.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbstyledtextctrl.h:
+
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:
+
+/usr/include/wx-2.8/wx/fontdlg.h:
+
+/usr/include/wx-2.8/wx/defs.h:
+
+/usr/include/wx-2.8/wx/dialog.h:
+
+/usr/include/wx-2.8/wx/cmndata.h:
+
+/usr/include/wx-2.8/wx/gtk/fontdlg.h:
+
+/usr/include/wx-2.8/wx/fontutil.h:
+
+/usr/include/wx-2.8/wx/fontmap.h:
+
+/usr/include/wx-2.8/wx/listbook.h:
+
+/usr/include/wx-2.8/wx/bookctrl.h:
+
+../../../src/include/configurationpanel.h:
+
+../../../src/include/globals.h:
+
+../../../src/include/settings.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/panel.h:
+
+../../../src/include/editkeywordsdlg.h:
+
+../../../src/include/editorcolourset.h:
+
+../../../src/src/editorconfigurationdlg.h:
+
+../../../src/include/scrollingdialog.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+../../../src/include/settings.h:

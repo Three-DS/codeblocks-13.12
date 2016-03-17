@@ -1,0 +1,37 @@
+classwizarddlg.lo: ../../../../src/plugins/classwizard/classwizarddlg.cpp \
+ /usr/include/stdc-predef.h ../../../../src/include/cbstyledtextctrl.h \
+ ../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ /usr/include/wx-2.8/wx/longlong.h /usr/include/c++/4.8/map \
+ /usr/include/c++/4.8/set /usr/include/wx-2.8/wx/tokenzr.h \
+ /usr/include/wx-2.8/wx/object.h /usr/include/wx-2.8/wx/string.h \
+ /usr/include/wx-2.8/wx/arrstr.h /usr/include/wx-2.8/wx/dirdlg.h \
+ ../../../../src/plugins/classwizard/classwizarddlg.h \
+ ../../../../src/include/scrollingdialog.h /usr/include/c++/4.8/vector
+
+/usr/include/stdc-predef.h:
+
+../../../../src/include/cbstyledtextctrl.h:
+
+../../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+
+/usr/include/wx-2.8/wx/longlong.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/set:
+
+/usr/include/wx-2.8/wx/tokenzr.h:
+
+/usr/include/wx-2.8/wx/object.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+/usr/include/wx-2.8/wx/arrstr.h:
+
+/usr/include/wx-2.8/wx/dirdlg.h:
+
+../../../../src/plugins/classwizard/classwizarddlg.h:
+
+../../../../src/include/scrollingdialog.h:
+
+/usr/include/c++/4.8/vector:

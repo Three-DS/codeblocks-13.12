@@ -1,0 +1,16 @@
+cbcolourmanager.lo: ../../../src/sdk/cbcolourmanager.cpp \
+ /usr/include/stdc-predef.h ../../../src/include/cbcolourmanager.h \
+ /usr/include/c++/4.8/map /usr/include/wx-2.8/wx/colour.h \
+ /usr/include/wx-2.8/wx/string.h ../../../src/include/manager.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/cbcolourmanager.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/wx-2.8/wx/colour.h:
+
+/usr/include/wx-2.8/wx/string.h:
+
+../../../src/include/manager.h:
